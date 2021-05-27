@@ -96,21 +96,21 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="#navbar-examples" data-toggle="collapse" role="button" aria-expanded="true" aria-controls="navbar-examples">
+                <a class="nav-link active" href="#navbar-examples" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="navbar-examples">
                     <i class="ni ni-calendar-grid-58" style="color: #f4645f;"></i>
                     <span class="nav-link-text" style="color: #f4645f;">{{ __('Jadwal') }}</span>
                 </a>
 
-                <div class="collapse show" id="navbar-examples">
+                <div class="collapse hide" id="navbar-examples">
                     <ul class="nav nav-sm flex-column">
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('profile.edit') }}">
-                                {{ __('User profile') }}
+                                {{ __('Rapat') }}
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('user.index') }}">
-                                {{ __('User Management') }}
+                                {{ __('Event') }}
                             </a>
                         </li>
                     </ul>
@@ -129,12 +129,12 @@
             </li>
             <li class="nav-item ">
                     <a class="nav-link" href="{{ route('map') }}">
-                        <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Asset') }}
+                        <i class="ni ni-paper-diploma text-blue"></i> {{ __('Asset') }}
                     </a>
                 </li>
                 <li class="nav-item ">
                     <a class="nav-link" href="{{ route('map') }}">
-                        <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Keuangan') }}
+                        <i class="ni ni-money-coins text-green"></i> {{ __('Keuangan') }}
                     </a>
                 </li>
             <li class="nav-item">
