@@ -98,7 +98,7 @@
             <li class="nav-item">
                 <a class="nav-link active" href="#navbar-examples" data-toggle="collapse" role="button" aria-expanded="true" aria-controls="navbar-examples">
                     <i class="fab fa-laravel" style="color: #f4645f;"></i>
-                    <span class="nav-link-text" style="color: #f4645f;">{{ __('Laravel Examples') }}</span>
+                    <span class="nav-link-text" style="color: #f4645f;">{{ __('Jadwal') }}</span>
                 </a>
 
                 <div class="collapse show" id="navbar-examples">
@@ -119,12 +119,12 @@
 
             <li class="nav-item">
                 <a class="nav-link" href="{{ route('icons') }}">
-                    <i class="ni ni-planet text-blue"></i> {{ __('Icons') }}
+                    <i class="ni ni-planet text-blue"></i> {{ __('Organisasi') }}
                 </a>
             </li>
             <li class="nav-item ">
                 <a class="nav-link" href="{{ route('map') }}">
-                    <i class="ni ni-pin-3 text-orange"></i> {{ __('Maps') }}
+                    <i class="ni ni-pin-3 text-orange"></i> {{ __('Program Kerja') }}
                 </a>
             </li>
             <li class="nav-item">
