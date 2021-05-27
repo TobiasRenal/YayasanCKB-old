@@ -86,6 +86,16 @@
                     <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Program kerja') }}
                 </a>
             </li>
+            <li class="nav-item ">
+                    <a class="nav-link" href="{{ route('map') }}">
+                        <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Asset') }}
+                    </a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link" href="{{ route('map') }}">
+                        <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Keuangan') }}
+                    </a>
+                </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{ route('table') }}">
                   <i class="ni ni-bullet-list-67 text-default"></i>

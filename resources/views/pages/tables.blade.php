@@ -55,8 +55,8 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link active" href="#navbar-examples" data-toggle="collapse" role="button" aria-expanded="true" aria-controls="navbar-examples">
-                    <i class="fab fa-laravel" style="color: #f4645f;"></i>
-                    <span class="nav-link-text" style="color: #f4645f;">{{ __('Laravel Examples') }}</span>
+                    <i class="ni ni-calendar-grid-58" style="color: #f4645f;"></i>
+                    <span class="nav-link-text" style="color: #f4645f;">{{ __('Jadwal') }}</span>
                 </a>
 
                 <div class="collapse show" id="navbar-examples">
@@ -77,14 +77,24 @@
 
             <li class="nav-item">
                 <a class="nav-link" href="{{ route('icons') }}">
-                    <i class="ni ni-planet text-blue"></i> {{ __('Icons') }}
+                    <i class="ni ni-planet text-blue"></i> {{ __('organisasi') }}
                 </a>
             </li>
             <li class="nav-item ">
                 <a class="nav-link" href="{{ route('map') }}">
-                    <i class="ni ni-pin-3 text-orange"></i> {{ __('Maps') }}
+                    <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Program Kerja') }}
                 </a>
             </li>
+            <li class="nav-item ">
+                    <a class="nav-link" href="{{ route('map') }}">
+                        <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Asset') }}
+                    </a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link" href="{{ route('map') }}">
+                        <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Keuangan') }}
+                    </a>
+                </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{ route('table') }}">
                   <i class="ni ni-bullet-list-67 text-default"></i>
