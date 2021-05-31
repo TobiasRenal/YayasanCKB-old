@@ -41,11 +41,11 @@
                 <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
                     <div class="col-lg-8 align-self-end">
                         <h1 class="text-white font-weight-bold">Your Favorite Place for Free Bootstrap Themes</h1>
-                        <hr class="divider" />
+                        <hr class="divider divider-light" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 mb-5">Start Bootstrap can help you build better websites using the Bootstrap framework! Just download a theme and start customizing, no strings attached!</p>
-                        <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
+                        <a class="btn btn-primary btn-xl text-blue-75" href="#about">Find Out More</a>
                     </div>
                 </div>
             </div>
@@ -197,7 +197,7 @@
                                 <textarea class="form-control" id="inputMessage" type="text" placeholder="Enter your message here..." style="height: 10rem"></textarea>
                                 <label for="inputMessage">Message</label>
                             </div>
-                            <div class="d-grid"><button class="btn btn-primary btn-xl" type="submit">Submit</button></div>
+                            <div class="d-grid"><button class="btn btn-blue btn-xl" type="submit">Submit</button></div>
                         </form>
                     </div>
                 </div>

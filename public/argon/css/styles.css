@@ -2184,7 +2184,7 @@ progress {
   background-color: #fff;
   border-color: #fab19d;
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(244, 98, 58, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(40, 22, 111, 0.25);
 }
 .form-control::-webkit-date-and-time-value {
   height: 1.5em;
@@ -2950,9 +2950,16 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #ffffff;
   border-color: #f4623a;
 }
+
+.btn-blue {
+  color: rgb(255, 255, 255);
+  background-color: #1893D6;
+  border-color: #f4623a;
+}
+
 .btn-primary:hover {
   color: #fff;
   background-color: #cf5331;
@@ -7335,7 +7342,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #f4623a !important;
+  color: #28166F !important;
 }
 
 .text-secondary {
@@ -7391,7 +7398,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #28166f !important;
 }
 
 .bg-secondary {
@@ -10853,6 +10860,10 @@ body {
   color: rgba(255, 255, 255, 0.75) !important;
 }
 
+.text-blue-75 {
+  color: rgba(40, 22, 111, 0.75) !important;
+}
+
 .btn-xl {
   padding: 1.25rem 2.25rem;
   font-size: 0.85rem;
@@ -10866,7 +10877,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #f4623a;
+  background-color: #28166F;
   opacity: 1;
 }
 
@@ -10895,7 +10906,7 @@ hr.divider-light {
   color: #f4623a;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #1893d6 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10939,7 +10950,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(40, 22, 111, 0.8) 0%, rgba(40, 22, 111, 0.8) 100%), url("../img/bg-masthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10987,7 +10998,7 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(40, 22, 111, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
