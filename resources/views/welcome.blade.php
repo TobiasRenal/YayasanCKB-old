@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Yayasan Cahaya Kahuripan Bangsa</title>
+        <title>Yayasan CKB</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap Icons-->
@@ -22,15 +22,15 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top">PKBM CKB</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Pengurus Only</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">Profile</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">Layanan</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Pendaftaran</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/contact">Kontak</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Administrator</a></li>
                     </ul>
                 </div>
             </div>
@@ -40,11 +40,11 @@
             <div class="container px-4 px-lg-5 h-100">
                 <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
                     <div class="col-lg-8 align-self-end">
-                        <h1 class="text-white font-weight-bold">Your Favorite Place for Free Bootstrap Themes</h1>
+                        <h1 class="text-white font-weight-bold">Selamat datang di web resmi PKBM Cahaya Kahuripan Bangsa</h1>
                         <hr class="divider divider-light" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Start Bootstrap can help you build better websites using the Bootstrap framework! Just download a theme and start customizing, no strings attached!</p>
+                        <p class="text-white-75 mb-5">Yayasan Cahaya Kahuripan Bangsa</p>
                         <a class="btn btn-primary btn-xl text-blue-75" href="#about">Find Out More</a>
                     </div>
                 </div>
@@ -66,35 +66,35 @@
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container px-4 px-lg-5">
-                <h2 class="text-center mt-0">At Your Service</h2>
+                <h2 class="text-center mt-0">Program Paket Kesetaraan</h2>
                 <hr class="divider" />
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <div class="mb-2"><i class="bi-gem fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Sturdy Themes</h3>
-                            <p class="text-muted mb-0">Our themes are updated regularly to keep them bug free!</p>
+                            <h3 class="h4 mb-2">Paket A</h3>
+                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket A (setara SD) Tingkat I (setara kelas I-III) dan Tingkat II (setara kelas IV-VI) menggunakan Kurikulum 2013</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <div class="mb-2"><i class="bi-laptop fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Up to Date</h3>
-                            <p class="text-muted mb-0">All dependencies are kept current to keep things fresh.</p>
+                            <h3 class="h4 mb-2">Paket B</h3>
+                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket B (setara SMP) Tingkat III (setara kelas VII-VIII) dan Tingkat IV (setara kelas IX) kelas utama dan kelas jauh menggunakan Kurikulum 2013</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <div class="mb-2"><i class="bi-globe fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Ready to Publish</h3>
-                            <p class="text-muted mb-0">You can use this design as is, or you can make changes!</p>
+                            <h3 class="h4 mb-2">Paket C</h3>
+                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket C (setara SMA) program peminatan IPS Tingkat V (setara kelas X-XI) dan Tingkat VI (setara kelas XII) kelas utama, kelas jauh dan kelas online menggunakan Kurikulum 2013</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <div class="mb-2"><i class="bi-heart fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Made with Love</h3>
-                            <p class="text-muted mb-0">Is it really open source if it's not made with love?</p>
+                            <h3 class="h4 mb-2">SBMPTN</h3>
+                            <p class="text-muted mb-0">Pendidikan Untuk Mengerjar SBMPTN (Seleksi Bersama Masuk Perguruan Tinggi Negeri)</p>
                         </div>
                     </div>
                 </div>
@@ -105,56 +105,67 @@
             <div class="container-fluid p-0">
                 <div class="row g-0">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/1.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/1.jpg" alt="..." />
+                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/kesetaraan.jpg" title="Project Name">
+                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/kesetaraan.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Program</div>
+                                <div class="project-name">Kesetaraan</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/2.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/2.jpg" alt="..." />
+                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/kursusinggris.jpg" title="Project Name">
+                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/kursusinggris.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Program</div>
+                                <div class="project-name">Kursus Bahasa Inggris</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/3.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/3.jpg" alt="..." />
+                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/kelaskomputer.jpg" title="Project Name">
+                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/kelaskomputer.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Program</div>
+                                <div class="project-name">Kursus Komputer</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/4.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/4.jpg" alt="..." />
+                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/musik.jpg" title="Project Name">
+                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/musik.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Program</div>
+                                <div class="project-name">Kursus Musik</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/5.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/5.jpg" alt="..." />
+                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/paud.jpg" title="Project Name">
+                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/paud.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Program</div>
+                                <div class="project-name">Kober Cahaya Bintang</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/6.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/6.jpg" alt="..." />
+                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/taekwondo.jpg" title="Project Name">
+                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/taekwondo.jpg" alt="..." />
                             <div class="portfolio-box-caption p-3">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Program</div>
+                                <div class="project-name">Taekwondo</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-3">
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/karate.jpg" title="Project Name">
+                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/karate.jpg" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Program</div>
+                                <div class="project-name">Karate INKAI</div>
                             </div>
                         </a>
                     </div>
@@ -168,50 +179,9 @@
                 <a class="btn btn-light btn-xl" href="https://startbootstrap.com/theme/creative/">Download Now!</a>
             </div>
         </section>
-        <!-- Contact-->
-        <section class="page-section" id="contact">
-            <div class="container px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-lg-8 col-xl-6 text-center">
-                        <h2 class="mt-0">Let's Get In Touch!</h2>
-                        <hr class="divider" />
-                        <p class="text-muted mb-5">Ready to start your next project with us? Send us a messages and we will get back to you as soon as possible!</p>
-                    </div>
-                </div>
-                <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
-                    <div class="col-lg-6">
-                        <form>
-                            <div class="form-floating mb-3">
-                                <input class="form-control" id="inputName" type="text" placeholder="Enter your name..." />
-                                <label for="inputName">Full name</label>
-                            </div>
-                            <div class="form-floating mb-3">
-                                <input class="form-control" id="inputEmail" type="email" placeholder="name@example.com" />
-                                <label for="inputEmail">Email address</label>
-                            </div>
-                            <div class="form-floating mb-3">
-                                <input class="form-control" id="inputPhone" type="tel" placeholder="(123) 456-7890" />
-                                <label for="inputPhone">Phone number</label>
-                            </div>
-                            <div class="form-floating mb-3">
-                                <textarea class="form-control" id="inputMessage" type="text" placeholder="Enter your message here..." style="height: 10rem"></textarea>
-                                <label for="inputMessage">Message</label>
-                            </div>
-                            <div class="d-grid"><button class="btn btn-blue btn-xl" type="submit">Submit</button></div>
-                        </form>
-                    </div>
-                </div>
-                <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-lg-4 text-center mb-5 mb-lg-0">
-                        <i class="bi-phone fs-2 mb-3 text-muted"></i>
-                        <div>+1 (555) 123-4567</div>
-                    </div>
-                </div>
-            </div>
-        </section>
         <!-- Footer-->
         <footer class="bg-light py-5">
-            <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2021 - Company Name</div></div>
+            <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2021 - Yayasan Cahaya Kahuripan Bangsa</div></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
