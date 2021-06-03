@@ -18,7 +18,7 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="{{ asset('argon') }}/css/styles.css" rel="stylesheet" />
     </head>
-    <body id="page-top" class ="body-light">
+    <body id="page-top">
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
@@ -26,60 +26,92 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#about">Profile</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#services">Layanan</a></li>
+                    <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Profile
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                <li><a class="dropdown-item" href="#">Latar Belakang & Sejarah</a></li>
+                                <li><a class="dropdown-item" href="#">Personalia</a></li>
+                                <li><a class="dropdown-item" href="#">Kurikulum</a></li>
+                            </ul>
+                            </li>
+                        </ul>
+                        </div>
+                        <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Layanan
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
+                                <li><a class="dropdown-item" href="#">Kursus Bahasa Inggris</a></li>
+                                <li><a class="dropdown-item" href="#">Kursus Komputer</a></li>
+                                <li><a class="dropdown-item" href="#">Kursus Musik</a></li>
+                                <li><a class="dropdown-item" href="#">Kober Cahaya Bintang</a></li>
+                                <li><a class="dropdown-item" href="#">Taekwondo</a></li>
+                                <li><a class="dropdown-item" href="#">Karate INKAI</a></li>
+                            </ul>
+                            </li>
+                        </ul>
+                        </div>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Pendaftaran</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Kontak</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#page-top">Kontak</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Administrator</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
         <!-- Contact-->
-        <section class="page-section" id="contact">
-            <div class="container px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-lg-8 col-xl-6 text-center">
-                        <h2 class="mt-0 txt-light">Punya Pertanyaan?</h2>
-                        <hr class="divider" />
-                        <p class="txt-light mb-5">Tulis pertanyaan anda dan kami akan menjawab secepatnya.</p>
+        <header class="masthead">
+            <section class="page-section" id="contact">
+                <div class="container px-4 px-lg-5">
+                    <div class="row gx-4 gx-lg-5 justify-content-center">
+                        <div class="col-lg-8 col-xl-6 text-center">
+                            <h2 class="mt-0 txt-light">Punya Pertanyaan?</h2>
+                            <hr class="divider" />
+                            <p class="txt-light mb-5">Tulis pertanyaan anda dan kami akan menjawab secepatnya.</p>
+                        </div>
+                    </div>
+                    <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
+                        <div class="col-lg-6">
+                            <form>
+                                <div class="form-floating mb-3">
+                                    <input class="form-control" id="inputName" type="text" placeholder="Enter your name..." />
+                                    <label for="inputName">Nama Lengkap</label>
+                                </div>
+                                <div class="form-floating mb-3">
+                                    <input class="form-control" id="inputEmail" type="email" placeholder="name@example.com" />
+                                    <label for="inputEmail">Email</label>
+                                </div>
+                                <div class="form-floating mb-3">
+                                    <input class="form-control" id="inputPhone" type="tel" placeholder="(123) 456-7890" />
+                                    <label for="inputPhone">Nomor Telepon</label>
+                                </div>
+                                <div class="form-floating mb-3">
+                                    <textarea class="form-control" id="inputMessage" type="text" placeholder="Enter your message here..." style="height: 10rem"></textarea>
+                                    <label for="inputMessage">Pertanyaan</label>
+                                </div>
+                                <div class="d-grid"><button class="btn btn-blue btn-xl" type="submit">Submit</button></div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row gx-4 gx-lg-5 justify-content-center">
+                        <div class="col-lg-4 text-center mb-5 mb-lg-0">
+                            <i class="bi-phone fs-2 mb-3 text-muted"></i>
+                            <div class="txt-light">(022) 4204721</div>
+                        </div>
                     </div>
                 </div>
-                <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
-                    <div class="col-lg-6">
-                        <form>
-                            <div class="form-floating mb-3">
-                                <input class="form-control" id="inputName" type="text" placeholder="Enter your name..." />
-                                <label for="inputName">Nama Lengkap</label>
-                            </div>
-                            <div class="form-floating mb-3">
-                                <input class="form-control" id="inputEmail" type="email" placeholder="name@example.com" />
-                                <label for="inputEmail">Email</label>
-                            </div>
-                            <div class="form-floating mb-3">
-                                <input class="form-control" id="inputPhone" type="tel" placeholder="(123) 456-7890" />
-                                <label for="inputPhone">Nomor Telepon</label>
-                            </div>
-                            <div class="form-floating mb-3">
-                                <textarea class="form-control" id="inputMessage" type="text" placeholder="Enter your message here..." style="height: 10rem"></textarea>
-                                <label for="inputMessage">Pertanyaan</label>
-                            </div>
-                            <div class="d-grid"><button class="btn btn-blue btn-xl" type="submit">Submit</button></div>
-                        </form>
-                    </div>
-                </div>
-                <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-lg-4 text-center mb-5 mb-lg-0">
-                        <i class="bi-phone fs-2 mb-3 text-muted"></i>
-                        <div class="txt-light">(022) 4204721</div>
-                    </div>
-                </div>
-            </div>
-        </section>
+            </section>
+        </header>
         <!-- Services-->
         <section class="page-section bg-white" id="services">
             <div class="container px-4 px-lg-5 ">
-                <h2 class="text-center mt-0">Program Paket Kesetaraan</h2>
+                <h2 class="text-center mt-0">Hubungi Kami</h2>
                 <hr class="divider" />
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-3 col-md-6 text-center">

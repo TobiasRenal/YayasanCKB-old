@@ -26,8 +26,38 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#about">Profile</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#services">Layanan</a></li>
+                    <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Profile
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                <li><a class="dropdown-item" href="#">Latar Belakang & Sejarah</a></li>
+                                <li><a class="dropdown-item" href="#">Personalia</a></li>
+                                <li><a class="dropdown-item" href="#">Kurikulum</a></li>
+                            </ul>
+                            </li>
+                        </ul>
+                        </div>
+                        <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Layanan
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
+                                <li><a class="dropdown-item" href="#">Kursus Bahasa Inggris</a></li>
+                                <li><a class="dropdown-item" href="#">Kursus Komputer</a></li>
+                                <li><a class="dropdown-item" href="#">Kursus Musik</a></li>
+                                <li><a class="dropdown-item" href="#">Kober Cahaya Bintang</a></li>
+                                <li><a class="dropdown-item" href="#">Taekwondo</a></li>
+                                <li><a class="dropdown-item" href="#">Karate INKAI</a></li>
+                            </ul>
+                            </li>
+                        </ul>
+                        </div>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Pendaftaran</a></li>
                         <li class="nav-item"><a class="nav-link" href="/contact">Kontak</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Administrator</a></li>
