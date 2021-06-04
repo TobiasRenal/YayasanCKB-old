@@ -22,7 +22,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#page-top">PKBM CKB</a>
+                <a class="navbar-brand" href="/">PKBM CKB</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
@@ -33,7 +33,7 @@
                                 Profile
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                <li><a class="dropdown-item" href="/sejarah">Latar Belakang & Sejarah</a></li>
+                                <li><a class="dropdown-item" href="#page-top">Latar Belakang & Sejarah</a></li>
                                 <li><a class="dropdown-item" href="#">Personalia</a></li>
                                 <li><a class="dropdown-item" href="#">Kurikulum</a></li>
                             </ul>
@@ -66,29 +66,15 @@
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="masthead">
-            <div class="container px-4 px-lg-5 h-100">
-                <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
-                    <div class="col-lg-8 align-self-end">
-                        <h1 class="text-white font-weight-bold">Selamat datang di web resmi PKBM Cahaya Kahuripan Bangsa</h1>
-                        <hr class="divider divider-light" />
-                    </div>
-                    <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Yayasan Cahaya Kahuripan Bangsa</p>
-                        <a class="btn btn-primary btn-xl text-blue-75" href="#about">Find Out More</a>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <!-- <header class="masthead">
+            
+        </header> -->
         <!-- About-->
         <section class="page-section bg-primary" id="about">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">We've got what you need!</h2>
-                        <hr class="divider divider-light" />
-                        <p class="text-white-75 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
-                        <a class="btn btn-light btn-xl" href="#services">Get Started!</a>
+                        <h2 class="text-white mt-0">Latar Belakang & Sejarah</h2>
                     </div>
                 </div>
             </div>
@@ -96,38 +82,40 @@
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container px-4 px-lg-5">
-                <h2 class="text-center mt-0">Program Paket Kesetaraan</h2>
-                <hr class="divider" />
-                <div class="row gx-4 gx-lg-5">
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <div class="mb-2"><i class="bi-gem fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Paket A</h3>
-                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket A (setara SD) Tingkat I (setara kelas I-III) dan Tingkat II (setara kelas IV-VI) menggunakan Kurikulum 2013</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <div class="mb-2"><i class="bi-laptop fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Paket B</h3>
-                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket B (setara SMP) Tingkat III (setara kelas VII-VIII) dan Tingkat IV (setara kelas IX) kelas utama dan kelas jauh menggunakan Kurikulum 2013</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <div class="mb-2"><i class="bi-globe fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Paket C</h3>
-                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket C (setara SMA) program peminatan IPS Tingkat V (setara kelas X-XI) dan Tingkat VI (setara kelas XII) kelas utama, kelas jauh dan kelas online menggunakan Kurikulum 2013</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <div class="mb-2"><i class="bi-heart fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">SBMPTN</h3>
-                            <p class="text-muted mb-0">Pendidikan Untuk Mengerjar SBMPTN (Seleksi Bersama Masuk Perguruan Tinggi Negeri)</p>
-                        </div>
-                    </div>
-                </div>
+                <p class="mb-4">
+                    Pusat Kegiatan Belajar Masyarakat (PKBM) merupakan prakarsa pembelajaran masyarakat yang didirikan dari, oleh, dan untuk masyarakat. 
+                    PKBM adalah suatu institusi yang berbasis masyarakat (Community Based Institution). Terminologi PKBM dari masyarakat, berarti bahwa pendirian PKBM merupakan inisiatif dari masyarakat itu sendiri. 
+                    Keinginan itu datang dari suatu kesadaran akan pentingnya peningkatan mutu kehidupan melalui suatu proses transformasional dan pembelajaran. 
+                    Inisiatif ini dapat dihasilkan melalui suatu proses sosialisasi akan pentingnya PKBM sebagai wadah pemberdayaan masyarakat kepada beberapa anggota atau tokoh masyarakat setempat oleh pihak pemerintah ataupun pihak lain di luar komunitas tersebut.
+                </p>
+                <p class="mb-4">
+                    Oleh masyarakat,berarti bahwa penyelenggaraan, pengembangan, dan keberlanjutan PKBM sepenuhnya menjadi tanggung jawab masyarakat itu sendiri. 
+                    Ini juga bermakna adanya semangat kebersamaan, kemandirian, dan gotong royong dalam pengelolaan PKBM serta penyelenggaraan berbagai program pendidikan masyarakat pada lembaga tersebut. 
+                </p>
+                <p class="mb-4">
+                    Untuk masyarakat,berarti bahwa keberadaan PKBM sepenuhnya untuk kemajuan dan keberdayaan kehidupan masyarakat tempat lembaga tersebut berada. 
+                    Eksistensi lembaga didasarkan pada pemilihan program-program yang sesuai dengan kebutuhan pendidikan atau pemberdayaan masyarakat. 
+                    Hal ini tidak menutup kemungkinan anggota masyarakat di luar komunitas tersebut ikut serta dalam berbagai program dan kegiatan yang diselenggarakan PKBM. 
+                    Masyarakat bertindak sekaligus sebagai subjek dan objek dalam berbagai kegiatan yang diselenggarakan oleh PKBM. 
+                    Berdasarkan data dari Badan Pusat Statistik (BPS) Kabupaten Bandung Barat tahun 2010 mengenai Penduduk Usia 10 tahun ke Atas Menurut Kelompok Umur dan Partisipasi Sekolah Laki-laki + Perempuan, penduduk Bandung barat Usia Sekolah, 10 – 19 tahun, ternyata masih banyak yang tidak/belum sekolah serta tidak bersekolah lagi (putus sekolah). 
+                    Kemudian berdasarkan informasi PKBM milik beberapa yayasan swasta di Lembang, angka putus sekolah di kecamatan Lembang diperkirakan mencapai lebih dari seribu orang. 
+                    Bahkan kehadiran beberapa PKBM di Lembang ternyata belum mampu  memangkas kisaran jumlah putus sekolah yang tinggi, yang sebagian besar disebabkan faktor ekonomi. 
+                </p>
+                <p class="mb-4">
+                    Berikut data dari Badan Pusat Statistik (BPS) Kabupaten Bandung Barat.
+                    </br>
+                    </br>
+                    <img src="{{ asset('argon') }}/img/portfolio/fullsize/kesetaraan.jpg" alt="Tabel Penduduk">
+                </p>
+                <p class="mb-4">
+                    Sebagai terobosan atas lingkaran kesulitan ini, Yayasan Cahaya Kahuripan Bangsa (CKB) mengambil inisiatif 
+                    untuk menyelenggarakan PKBM secara mandiri bagi masyarakat Lembang dan sekitarnya, yang merupakan bagian dari Kabupaten Bandung Barat, secara gratis. 
+                </p>
+                <p class="mb-4">
+                    Akhirnya setelah melengkapi berbagai persyaratan perizinan sesuai dengan ketetapan Dinas Pendidikan Bandung Barat, pada 4 Juni 2013, 
+                    Kepala Dinas Pendidikan Pemuda dan Olahraga Kabupaten Bandung Barat menerbitkan Surat Keputusan (SK) Nomor 421/2522.1 
+                    tentang Pemberian Izin Penyelenggaraan Pusat Kegiatan Belajar Masyarakat (PKBM) Cahaya Kahuripan Bangsa (CKB) yang berlaku untuk dua tahun.  
+                </p>
             </div>
         </section>
         <!-- Portfolio-->

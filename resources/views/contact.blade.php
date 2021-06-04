@@ -33,7 +33,7 @@
                                 Profile
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                <li><a class="dropdown-item" href="#">Latar Belakang & Sejarah</a></li>
+                                <li><a class="dropdown-item" href="/sejarah">Latar Belakang & Sejarah</a></li>
                                 <li><a class="dropdown-item" href="#">Personalia</a></li>
                                 <li><a class="dropdown-item" href="#">Kurikulum</a></li>
                             </ul>
