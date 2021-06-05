@@ -39,7 +39,7 @@
                             </ul>
                             </li>
                         </ul>
-                        </div>
+                    </div>
                         <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item dropdown">
@@ -48,8 +48,8 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                 <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
-                                <li><a class="dropdown-item" href="#">Kursus Bahasa Inggris</a></li>
-                                <li><a class="dropdown-item" href="#">Kursus Komputer</a></li>
+                                <li><a class="dropdown-item" href="/inggris">Kursus Bahasa Inggris</a></li>
+                                <li><a class="dropdown-item" href="/komputer">Kursus Komputer</a></li>
                                 <li><a class="dropdown-item" href="#">Kursus Musik</a></li>
                                 <li><a class="dropdown-item" href="#">Kober Cahaya Bintang</a></li>
                                 <li><a class="dropdown-item" href="#">Taekwondo</a></li>

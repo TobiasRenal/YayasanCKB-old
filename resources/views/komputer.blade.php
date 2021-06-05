@@ -22,7 +22,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#page-top">PKBM CKB</a>
+                <a class="navbar-brand" href="/">PKBM CKB</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
@@ -49,7 +49,7 @@
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                 <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
                                 <li><a class="dropdown-item" href="/inggris">Kursus Bahasa Inggris</a></li>
-                                <li><a class="dropdown-item" href="/komputer">Kursus Komputer</a></li>
+                                <li><a class="dropdown-item" href="#">Kursus Komputer</a></li>
                                 <li><a class="dropdown-item" href="#">Kursus Musik</a></li>
                                 <li><a class="dropdown-item" href="#">Kober Cahaya Bintang</a></li>
                                 <li><a class="dropdown-item" href="#">Taekwondo</a></li>
@@ -66,29 +66,15 @@
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="masthead">
-            <div class="container px-4 px-lg-5 h-100">
-                <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
-                    <div class="col-lg-8 align-self-end">
-                        <h1 class="text-white font-weight-bold">Selamat datang di web resmi PKBM Cahaya Kahuripan Bangsa</h1>
-                        <hr class="divider divider-light" />
-                    </div>
-                    <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Yayasan Cahaya Kahuripan Bangsa</p>
-                        <a class="btn btn-primary btn-xl text-blue-75" href="#about">Find Out More</a>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <!-- <header class="masthead">
+            
+        </header> -->
         <!-- About-->
         <section class="page-section bg-primary" id="about">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">We've got what you need!</h2>
-                        <hr class="divider divider-light" />
-                        <p class="text-white-75 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
-                        <a class="btn btn-light btn-xl" href="#services">Get Started!</a>
+                        <h2 class="text-white mt-0">Kursus Komputer</h2>
                     </div>
                 </div>
             </div>
@@ -96,38 +82,47 @@
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container px-4 px-lg-5">
-                <h2 class="text-center mt-0">Program Paket Kesetaraan</h2>
-                <hr class="divider" />
-                <div class="row gx-4 gx-lg-5">
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <div class="mb-2"><i class="bi-gem fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Paket A</h3>
-                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket A (setara SD) Tingkat I (setara kelas I-III) dan Tingkat II (setara kelas IV-VI) menggunakan Kurikulum 2013</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <div class="mb-2"><i class="bi-laptop fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Paket B</h3>
-                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket B (setara SMP) Tingkat III (setara kelas VII-VIII) dan Tingkat IV (setara kelas IX) kelas utama dan kelas jauh menggunakan Kurikulum 2013</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <div class="mb-2"><i class="bi-globe fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">Paket C</h3>
-                            <p class="text-muted mb-0">Pendidikan Kesetaraan Kejar Paket C (setara SMA) program peminatan IPS Tingkat V (setara kelas X-XI) dan Tingkat VI (setara kelas XII) kelas utama, kelas jauh dan kelas online menggunakan Kurikulum 2013</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <div class="mb-2"><i class="bi-heart fs-1 text-primary"></i></div>
-                            <h3 class="h4 mb-2">SBMPTN</h3>
-                            <p class="text-muted mb-0">Pendidikan Untuk Mengerjar SBMPTN (Seleksi Bersama Masuk Perguruan Tinggi Negeri)</p>
-                        </div>
-                    </div>
-                </div>
+                <p class="mb-4">
+                    PKBM Cahaya Kahuripan Bangsa menyelenggarakan kursus komputer administrasi perkantoran. 
+                    Dengan mengikuti kursus komputer di PKBM CKB, Anda dapat menggunakan aplikasi office untuk membuat berbagai laporan, perhitungan dengan rumus-rumus, 
+                    menyiapkan penampilan presentasi, mengirim surat elektronik, mengakses internet, dan menggunakan aplikasi Google dengan G Suite for Education.
+                </p>
+                <h2 class="mb-4">
+                    Keahlian apa yang akan saya kuasai?
+                </h2>
+                <p class="mb-4">
+                    Ada tiga tingkatan kursus komputer administrasi perkantoran PKBM CKB:
+                </p>
+                <p class="mb-4">
+                    <ol>
+                        <li>
+                            Dasar untuk mereka yang sama sekali belum pernah menggunakan komputer atau mereka yang pernah menggunakan komputer namun belum begitu terbiasa. 
+                            Lulusan tingkat Dasar diharapkan sudah mengenal komputer dan bisa mengerjakan pekerjaan perkantoran sederhana.
+                            
+                        </li>
+                        </br>
+                        <li>
+                            Menengah untuk mereka yang biasa menggunakan komputer namun belum mengenal semua fitur office secara detail dan mengerjakan pekerjaan yang sifatnya kompleks. 
+                            Lulusan tingkat Menengah diharapkan sudah mampu menggunakan aplikasi Office untuk melakukan pekerjaan-pekerjaan rutinan sederhana maupun yang lebih rumit.
+                            
+                        </li>
+                        </br>
+                        <li>
+                            Mahir untuk mereka yang sudah mahir menggunakan aplikasi Office namun belum mengenal fitur-fitur dan keterampilan khusus untuk menyempurnakan 
+                            penguasaan keterampilan Office Anda. Lulusan tingkat Mahir diharapkan mampu menyelesaikan permasalahan-permasalahan dan tantangan-tantangan yang berkaitan 
+                            dengan administrasi yang sifatnya bukan suatu hal yang rutin (misalnya, mengerjakan makalah penelitian, menerjemahkan dokumen, menyusun daftar indeks, 
+                            dan lainnya) dan menyusun sendiri serta menerapkan langkah-langkah penyelesaiannya dengan terampil dan cepat.
+                            
+                        </li>
+                        </br>
+                    </ol> 
+                </p>
+                <p class="mb-4">
+                    Ada beberapa aplikasi yang diajarkan pada kursus komputer aplikasi perkantoran PKBM CKB.
+                </p>
+                <h3 class="mb-4">
+                    Microsoft Office Word
+                </h3>
             </div>
         </section>
         <!-- Portfolio-->

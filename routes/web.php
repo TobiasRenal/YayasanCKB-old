@@ -25,6 +25,14 @@ Route::get('/sejarah', function () {
     return view('sejarah');
 });
 
+Route::get('/inggris', function () {
+    return view('inggris');
+});
+
+Route::get('/komputer', function () {
+    return view('komputer');
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
