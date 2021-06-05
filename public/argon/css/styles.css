@@ -11023,3 +11023,11 @@ header.masthead h1, header.masthead .h1 {
 .txt-light {
   color : #ffffff;
 }
+
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

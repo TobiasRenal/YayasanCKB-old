@@ -105,7 +105,7 @@
                     Berikut data dari Badan Pusat Statistik (BPS) Kabupaten Bandung Barat.
                     </br>
                     </br>
-                    <img src="{{ asset('argon') }}/img/portfolio/fullsize/kesetaraan.jpg" alt="Tabel Penduduk">
+                    <img src="{{ asset('argon') }}/img/gambar/tabelpenduduk.png" alt="Tabel Penduduk" class = "center-img">
                 </p>
                 <p class="mb-4">
                     Sebagai terobosan atas lingkaran kesulitan ini, Yayasan Cahaya Kahuripan Bangsa (CKB) mengambil inisiatif 
