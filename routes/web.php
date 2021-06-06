@@ -33,6 +33,10 @@ Route::get('/komputer', function () {
     return view('komputer');
 });
 
+Route::get('/musik', function () {
+    return view('musik');
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
