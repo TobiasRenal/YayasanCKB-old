@@ -131,12 +131,42 @@
                         </li>
                         </br>
                         <li>
-                            Pendidikan Kreatif Abad 21: Kursus musik PKBM CKB tidak hanya mendorong peserta kursusnya untuk memainkan alat musik, 
-                            namun juga mengajak dan mendorong para peserta kursus untuk dapat menciptakan melodi hingga suatu hari menyusun komposisi lagu, 
-                            baik secara individu maupun bersama-sama.  
+                            <h4>Kursus Gitar Dewasa</h4>
+                            Masa belajar: 3-4 tahun (atau disesuaikan kebutuhan peserta)
+                            </br>
+                            Format belajar: berkelompok 2-5 orang
+                            </br>
+                            Waktu belajar: 1×60 menit per minggu, 4x per bulan
+                        </li>
+                        </br>
+                        <li>
+                            <h4>Kursus Keyboard Dewasa</h4>
+                            Masa belajar: 3-4 tahun (atau disesuaikan kebutuhan peserta)
+                            </br>
+                            Format belajar: berkelompok 2-5 orang
+                            </br>
+                            Waktu belajar: 1×60 menit per minggu, 4x per bulan
                         </li>
                         </br>
                     </ul> 
+                </p>
+                <h3 class="mb-4">Pertanyaan Umum</h3>
+                <p class="mb-4">
+                    <ol>
+                        <li>
+                            Apakah untuk mengikuti kursus Gitar/Keyboard di PKBM CKB harus memiliki sendiri Gitar atau Keyboardnya?
+                            </br>
+                            </br>
+                            <b>Lebih baik memiliki sendiri, namun jika tidak pun di PKBM CKB tersedia unit gitar dan keyboard yang digunakan untuk kursus.</b>
+                        </li>
+                        </br>
+                        <li>
+                            Bagaimana saya bisa mendaftar kursus musik?
+                            </br></br>
+                            <b>Khusus untuk kursus musik di PKBM CKB, mohon untuk mendaftar secara berkelompok  langsung datang ke kantor PKBM CKB dan mengisi formulir pendaftaran. Jadwal dan waktu kursus disesuaikan dengan kesediaan kelompok saat pertama kali mendaftar dan dapat disesuaikan kembali dengan tutor kursus saat sudah berjalan.</b>
+                        </li>
+                        </br>
+                    </ol> 
                 </p>
             </div>
         </section>
