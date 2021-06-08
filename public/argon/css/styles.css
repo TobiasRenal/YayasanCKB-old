@@ -11031,3 +11031,7 @@ header.masthead h1, header.masthead .h1 {
   margin-right: auto;
   width: 50%;
 }
+
+.text-left{
+  text-align: left;
+}

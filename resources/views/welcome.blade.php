@@ -85,9 +85,9 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">We've got what you need!</h2>
+                        <h2 class="text-white mt-0">Inspirasi dan inovasi berkelanjutan</h2>
                         <hr class="divider divider-light" />
-                        <p class="text-white-75 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
+                        <p class="text-white-75 mb-4 text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a consectetur libero. Nunc congue massa ante. Phasellus ut enim quis neque interdum condimentum at sed diam. Donec eu sem non elit mollis venenatis. Morbi eu sapien volutpat ipsum accumsan finibus mattis sed ligula. Sed lobortis arcu ut diam tristique mollis. Nulla consequat, mi ac fringilla semper, ipsum diam gravida elit, non hendrerit turpis odio id lectus. Integer non gravida ipsum. Pellentesque condimentum accumsan urna at dapibus. Aliquam quis aliquet leo.</p>
                         <a class="btn btn-light btn-xl" href="#services">Get Started!</a>
                     </div>
                 </div>
@@ -133,6 +133,8 @@
         <!-- Portfolio-->
         <div id="portfolio">
             <div class="container-fluid p-0">
+                <h2 class="text-center mt-0">Layanan yang tersedia</h2>
+                <hr class="divider" />
                 <div class="row g-0">
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/kesetaraan.jpg" title="Project Name">

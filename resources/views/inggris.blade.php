@@ -122,6 +122,86 @@
                 <h2 class="mb-4">
                     SKL English for Kids
                 </h2>
+                <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                    <th scope="col">No</th>
+                    <th scope="col">Kompetensi Inti</th>
+                    <th scope="col">Kompetensi Dasar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>
+                            Peserta kursus dapat melafalkan huruf-huruf dan kata-kata dalam Bahasa Inggris dengan aturan pelafalan Bahasa Inggris yang berlaku secara umum
+                        </td>
+                        <td>
+                            1.1. Melafalkan huruf-huruf Bahasa Inggris
+                            </br>
+                            </br>
+                            1.2. Melafalkan beberapa kosa kata Bahasa Inggris dengan berbagai perbedaan aturan pelafalan (schwa, dll.)
+                            </br>
+                            </br>
+                            1.3. Membaca kalimat-kalimat sederhana yang ditulis dalam Bahasa Inggris dan memahami makna yang terkandung dalam kalimat tersebut.
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>
+                            Peserta kursus mengenali benda-benda yang ada di sekitarnya dalam konteks kehidupan sehari-hari di rumah dan di sekolah
+                        </td>
+                        <td>
+                            2.1. Mengenal dan menyebutkan benda-benda yang ditemui dalam kehidupan sehari-hari di rumah dan di sekolah.
+                            </br>
+                            </br>
+                            2.2. Menjawab pertanyaan lisan dan tertulis tentang perbendaan yang ditemui dalam kehidupan sehari-hari di rumah dan di sekolah.
+                            </br>
+                            </br>
+                            2.3. Mengajukan pertanyaan tentang perbendaan yang ditemui dalam kehidupan sehari-hari di rumah dan di sekolah.
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>
+                            Peserta kursus dapat mengucapkan salam, membuka percakapan, dan mengakhiri percakapan (perpisahan) dengan ragam bahasa akrab dan sopan
+                        </td>
+                        <td>
+                            3.1. Membuka percakapan dengan salam yang tepat dengan memperhatikan siapa lawan bicara
+                            </br>
+                            </br>
+                            3.2. Menjawab ucapan salam dengan tepat sesuai dengan siapa yang mengucapkan salam
+                            </br>
+                            </br>
+                            3.3. Mengakhiri percakapan dengan mengucapkan salam perpisahan sesuai dengan lawan bicara
+                            </br>
+                            </br>
+                            3.4. Menjawab salam perpisahan dengan tepat sesuai dengan lawan bicara
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>
+                            Peserta kursus dapat mengidentifikasi dan membedakan angka-angka dalam Bahasa Inggris serta menggunakannya dalam konteks kehidupan keseharian
+                        </td>
+                        <td>
+                            4.1. Mengenal angka bilangan cacah 0, 1-12
+                            </br>
+                            </br>
+                            4.2. Mengenal angka bilangan cacah 13-19
+                            </br>
+                            </br>
+                            4.3. Mengenal angka bilangan cacah 20-99
+                            </br>
+                            </br>
+                            4.4. Mengenal angka bilangan cacah 100-999
+                            </br>
+                            </br>
+                            4.5. Mendeskripsikan banyak benda yang ditemui dalam konteks kehidupan keseharian dengan menggunakan bilangan cacah
+                        </td>
+                    </tr>
+                </tbody>
+                </table>
             </div>
         </section>
         <!-- Call to action-->
