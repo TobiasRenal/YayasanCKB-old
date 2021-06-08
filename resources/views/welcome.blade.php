@@ -41,22 +41,22 @@
                         </ul>
                         </div>
                         <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
-                        <ul class="navbar-nav">
-                            <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Layanan
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
-                                <li><a class="dropdown-item" href="/inggris">Kursus Bahasa Inggris</a></li>
-                                <li><a class="dropdown-item" href="/komputer">Kursus Komputer</a></li>
-                                <li><a class="dropdown-item" href="/musik">Kursus Musik</a></li>
-                                <li><a class="dropdown-item" href="/kober">Kober Cahaya Bintang</a></li>
-                                <li><a class="dropdown-item" href="/taekwondo">Taekwondo</a></li>
-                                <li><a class="dropdown-item" href="/karate">Karate INKAI</a></li>
+                            <ul class="navbar-nav">
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Layanan
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                        <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
+                                        <li><a class="dropdown-item" href="/inggris">Kursus Bahasa Inggris</a></li>
+                                        <li><a class="dropdown-item" href="/komputer">Kursus Komputer</a></li>
+                                        <li><a class="dropdown-item" href="/musik">Kursus Musik</a></li>
+                                        <li><a class="dropdown-item" href="/kober">Kober Cahaya Bintang</a></li>
+                                        <li><a class="dropdown-item" href="/taekwondo">Taekwondo</a></li>
+                                        <li><a class="dropdown-item" href="/karate">Karate INKAI</a></li>
+                                    </ul>
+                                </li>
                             </ul>
-                            </li>
-                        </ul>
                         </div>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Pendaftaran</a></li>
                         <li class="nav-item"><a class="nav-link" href="/contact">Kontak</a></li>
