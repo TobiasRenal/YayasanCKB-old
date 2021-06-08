@@ -50,8 +50,8 @@
                                 <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
                                 <li><a class="dropdown-item" href="/inggris">Kursus Bahasa Inggris</a></li>
                                 <li><a class="dropdown-item" href="/komputer">Kursus Komputer</a></li>
-                                <li><a class="dropdown-item" href="#page-top">Kursus Musik</a></li>
-                                <li><a class="dropdown-item" href="/kober">Kober Cahaya Bintang</a></li>
+                                <li><a class="dropdown-item" href="/musik">Kursus Musik</a></li>
+                                <li><a class="dropdown-item" href="#page-top">Kober Cahaya Bintang</a></li>
                                 <li><a class="dropdown-item" href="/taekwondo">Taekwondo</a></li>
                                 <li><a class="dropdown-item" href="/karate">Karate INKAI</a></li>
                             </ul>
@@ -74,7 +74,7 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">Kursus Musik</h2>
+                        <h2 class="text-white mt-0">Kober Cahaya Bintang</h2>
                     </div>
                 </div>
             </div>
@@ -83,90 +83,32 @@
         <section class="page-section" id="services">
             <div class="container px-4 px-lg-5">
                 <p class="mb-4">
-                    PKBM Cahaya Kahuripan Bangsa menyelenggarakan kursus Gitar dan Keyboard gratis untuk anak dan dewasa. Ada tiga prinsip yang diangkat oleh PKBM CKB dalam menyelenggarakan kursus musik:
+                    Kelompok Bermain (Kober) adalah satuan Pendidikan Anak Usia Dini (PAUD) pada jalur pendidikan non formal yang menyelenggarakan pendidikan bagi anak dengan usia di bawah lima tahun. Di PKBM Cahaya Kahuripan Bangsa, kegiatan PAUD yang diselenggarakan adalah Kober Cahaya Bintang. Kober Cahaya Bintang berkegiatan pukul 09.00-11.00.
+                </p>
+                <p class="mb-4">
+                    Kober Cahaya Bintang berupaya memberikan stimulasi yang baik untuk mengembangkan kemampuan intelektual, kemampuan sosial, dan kematangan motorik anak. Meski tidak diwajibkan mengikuti kegiatan Kober, di Kober Cahaya Bintang, peserta akan memperoleh banyak manfaat yang akan sangat berguna bagi kehidupan anak di masa-masa perkembangannya.
+                </p>
+                <p class="mb-4">
+                    Lalu, mengapa Kober Cahaya Bintang adalah pilihan paling tepat untuk masa prasekolah si kecil?
                 </p>
                 <p class="mb-4">
                     <ol>
                         <li>
-                            Pendidikan Sesuai Usia: Kursus musik PKBM CKB dapat diikuti oleh anak dan dewasa. 
-                            Masing-masing kelompok tidak akan dicampur antara anak dan dewasa, karena program kursus disesuaikan dengan usia dan 
-                            perkembangan peserta kursus pada kelompok usia tersebut serta kebutuhan peserta kursus tersebut.   
+                            Membantu pembentukan struktur otak anak. Di Kober Cahaya Bintang, berbagai kegiatan belajar dirancang untuk mendorong dan membantu pembentukan struktur otak anak. Pada usia 5 tahun, pertumbuhan otak anak mencapai 90% dari ukuran otak dewasa nanti. Oleh karena itu, pada tahun-tahun ini, anak menghadapi masa kritis yang mana pengalaman mereka di masa tersebut akan memberikan efek jangka panjang untuk masa depannya.
                         </li>
                         </br>
                         <li>
-                            Pendidikan Sosial: Kursus musik PKBM CKB tidak hanya mengedepankan keterampilan bermusik individu per individu semata, 
-                            namun juga bagaimana keterampilan bermain musik tersebut mampu menumbuhkembangkan keterampilan sosial pesertanya. 
-                            Peserta kursus didorong untuk bersosialisasi dan bekerja sama untuk menciptakan harmoni dalam bermain musik, misalnya dalam ensemble.                            
+                            Mendorong pencapaian akademis yang lebih baik. Anak-anak pada masa prasekolah memilki rasa ingin tahu yang tinggi umumnya, dan Kober Cahaya Bintang sangat mengapresiasi dan memberikan kesempatan bagi si kecil untuk memenuhi rasa ingin tahunya. Hal ini akan memberikan efek positif pada performa akademisnya kelak ketika si kecil menginjak bangku sekolah. Para peserta Kober Cahaya Bintang tercatat jarang sekali ada yang sampai harus mengulang pelajaran atau tinggal kelas, dan bisa mengikuti pembelajaran di sekolah dengan kualitas keikutsertaan yang tinggi.
                         </li>
                         </br>
                         <li>
-                            Pendidikan Kreatif Abad 21: Kursus musik PKBM CKB tidak hanya mendorong peserta kursusnya untuk memainkan alat musik, 
-                            namun juga mengajak dan mendorong para peserta kursus untuk dapat menciptakan melodi hingga suatu hari menyusun komposisi lagu, 
-                            baik secara individu maupun bersama-sama.  
+                            Tambahan aktivitas harian anak yang lebih terstruktur. Kober Cahaya Bintang menyediakan berbagai alat permainan edukatif yang tidak tersedia di rumah. Selain itu, di Kober Cahaya Bintang juga terdapat aktivitas olahraga ringan yang sangat bermanfaat untuk proses tumbuhkembang anak. Bahkan, si kecil juga bisa mengikuti kegiatan Taekwondo dan Karate INKAI yang diselenggarakan oleh PKBM Cahaya Kahuripan Bangsa untuk lebih memberikan sumbangan positif untuk perkembangan anak. 
                         </li>
                         </br>
                     </ol> 
                 </p>
                 <p class="mb-4">
-                    Atas dasar ketiga prinsip tersebut, kursus Gitar dan Keyboard PKBM CKB dibuka untuk seluruh kalangan usia baik anak maupun dewasa, secara gratis.
-                </p>
-                <p class="mb-4">
-                    <ul>
-                        <li>
-                            <h4>Kursus Gitar Anak</h4>
-                            Masa belajar: Disesuaikan kebutuhan peserta, idealnya 3-4 tahun
-                            </br>
-                            Format belajar: berkelompok 2-5 orang
-                            </br>
-                            Waktu belajar: 1×60 menit per minggu, 4x per bulan (menyesuaikan kebutuhan peserta)   
-                        </li>
-                        </br>
-                        <li>
-                            <h4>Kursus Keyboard Anak</h4>
-                            Masa belajar: 3-4 tahun (atau disesuaikan kebutuhan peserta)
-                            </br>
-                            Format belajar: berkelompok 2-5 orang
-                            </br>
-                            Waktu belajar: 1×60 menit per minggu, 4x per bulan
-                        </li>
-                        </br>
-                        <li>
-                            <h4>Kursus Gitar Dewasa</h4>
-                            Masa belajar: 3-4 tahun (atau disesuaikan kebutuhan peserta)
-                            </br>
-                            Format belajar: berkelompok 2-5 orang
-                            </br>
-                            Waktu belajar: 1×60 menit per minggu, 4x per bulan
-                        </li>
-                        </br>
-                        <li>
-                            <h4>Kursus Keyboard Dewasa</h4>
-                            Masa belajar: 3-4 tahun (atau disesuaikan kebutuhan peserta)
-                            </br>
-                            Format belajar: berkelompok 2-5 orang
-                            </br>
-                            Waktu belajar: 1×60 menit per minggu, 4x per bulan
-                        </li>
-                        </br>
-                    </ul> 
-                </p>
-                <h3 class="mb-4">Pertanyaan Umum</h3>
-                <p class="mb-4">
-                    <ol>
-                        <li>
-                            Apakah untuk mengikuti kursus Gitar/Keyboard di PKBM CKB harus memiliki sendiri Gitar atau Keyboardnya?
-                            </br>
-                            </br>
-                            <b>Lebih baik memiliki sendiri, namun jika tidak pun di PKBM CKB tersedia unit gitar dan keyboard yang digunakan untuk kursus.</b>
-                        </li>
-                        </br>
-                        <li>
-                            Bagaimana saya bisa mendaftar kursus musik?
-                            </br></br>
-                            <b>Khusus untuk kursus musik di PKBM CKB, mohon untuk mendaftar secara berkelompok  langsung datang ke kantor PKBM CKB dan mengisi formulir pendaftaran. Jadwal dan waktu kursus disesuaikan dengan kesediaan kelompok saat pertama kali mendaftar dan dapat disesuaikan kembali dengan tutor kursus saat sudah berjalan.</b>
-                        </li>
-                        </br>
-                    </ol> 
+                    Ingin tahu lebih lanjut? Mari berkunjung ke kantor Kober Cahaya Bintang PKBM Cahaya Kahuripan Bangsa.
                 </p>
             </div>
         </section>

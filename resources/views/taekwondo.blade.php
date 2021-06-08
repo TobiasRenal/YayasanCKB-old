@@ -50,9 +50,9 @@
                                 <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
                                 <li><a class="dropdown-item" href="/inggris">Kursus Bahasa Inggris</a></li>
                                 <li><a class="dropdown-item" href="/komputer">Kursus Komputer</a></li>
-                                <li><a class="dropdown-item" href="#page-top">Kursus Musik</a></li>
+                                <li><a class="dropdown-item" href="/musik">Kursus Musik</a></li>
                                 <li><a class="dropdown-item" href="/kober">Kober Cahaya Bintang</a></li>
-                                <li><a class="dropdown-item" href="/taekwondo">Taekwondo</a></li>
+                                <li><a class="dropdown-item" href="#page-top">Taekwondo</a></li>
                                 <li><a class="dropdown-item" href="/karate">Karate INKAI</a></li>
                             </ul>
                             </li>
@@ -74,7 +74,7 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">Kursus Musik</h2>
+                        <h2 class="text-white mt-0">Taekwondo</h2>
                     </div>
                 </div>
             </div>
@@ -83,90 +83,50 @@
         <section class="page-section" id="services">
             <div class="container px-4 px-lg-5">
                 <p class="mb-4">
-                    PKBM Cahaya Kahuripan Bangsa menyelenggarakan kursus Gitar dan Keyboard gratis untuk anak dan dewasa. Ada tiga prinsip yang diangkat oleh PKBM CKB dalam menyelenggarakan kursus musik:
+                    Sebagai sarana warga belajar PKBM CKB dan masyarakat umum untuk mengembangkan diri, mengekspresikan diri, berprestasi, berolahraga, berkomunitas sosial, dan pendidikan karakter, PKBM Cahaya Kahuripan Bangsa menyelenggarakan kegiatan Taekwondo.
                 </p>
                 <p class="mb-4">
-                    <ol>
-                        <li>
-                            Pendidikan Sesuai Usia: Kursus musik PKBM CKB dapat diikuti oleh anak dan dewasa. 
-                            Masing-masing kelompok tidak akan dicampur antara anak dan dewasa, karena program kursus disesuaikan dengan usia dan 
-                            perkembangan peserta kursus pada kelompok usia tersebut serta kebutuhan peserta kursus tersebut.   
-                        </li>
-                        </br>
-                        <li>
-                            Pendidikan Sosial: Kursus musik PKBM CKB tidak hanya mengedepankan keterampilan bermusik individu per individu semata, 
-                            namun juga bagaimana keterampilan bermain musik tersebut mampu menumbuhkembangkan keterampilan sosial pesertanya. 
-                            Peserta kursus didorong untuk bersosialisasi dan bekerja sama untuk menciptakan harmoni dalam bermain musik, misalnya dalam ensemble.                            
-                        </li>
-                        </br>
-                        <li>
-                            Pendidikan Kreatif Abad 21: Kursus musik PKBM CKB tidak hanya mendorong peserta kursusnya untuk memainkan alat musik, 
-                            namun juga mengajak dan mendorong para peserta kursus untuk dapat menciptakan melodi hingga suatu hari menyusun komposisi lagu, 
-                            baik secara individu maupun bersama-sama.  
-                        </li>
-                        </br>
-                    </ol> 
+                    Kegiatan Taekwondo termasuk ke dalam rumpun kegiatan pengembangan diri (jika di sekolah formal sering disebut ekstrakurikuler) di luar kursus, PAUD, dan kesetaraan, dan dapat diikuti oleh masyarakat umum maupun warga belajar PKBM CKB.
                 </p>
                 <p class="mb-4">
-                    Atas dasar ketiga prinsip tersebut, kursus Gitar dan Keyboard PKBM CKB dibuka untuk seluruh kalangan usia baik anak maupun dewasa, secara gratis.
+                    Taekwondo itu sendiri adalah seni bela diri asal Korea yang juga merupakan olahraga nasional Korea. Taekwondo adalah seni bela diri populer di dunia yang dipertandingkan di Olimpiade.
+                </p>
+                <p class="mb-4">
+                    Dalam bahasa Korea, ‘Tae” artinya menendang atau menghancurkan dengan kaki, “Kwon” berarti tinju, dan “Do” berarti jalan atau seni. Popularitas Taekwondo telah menyebabkan seni bela diri ini berkembang dalam berbagai bentuk. Seperti banyak seni bela diri lainnya, Taekwondo adalah gabungan dari teknik perkelahian, bela diri, olahraga, olah tubuh, hiburan, dan filsafat.
+                </p>
+                <p class="mb-4">
+                    Ciri khas Taekwondo adalah menekankan tendangan yang dilakukan dari suatu sikap bergerak, dengan menggunakan daya jangkau dan kekuatan kaki yang lebih besar untuk melumpuhkan lawan dari kejauhan. Dalam suatu pertandingan, tendangan berputar, 45 derajat, depan, kapak, dan samping adalah yang paling banyak digunakan. Tidak hanya tendangan, Latihan Taekwondo juga mencakup sistem yang menyeluruh dari pukulan dan pertahanan dengan tangan.
+                </p>
+                <p class="mb-4">
+                    Ada dua materi umum latihan Taekwondo:
                 </p>
                 <p class="mb-4">
                     <ul>
                         <li>
-                            <h4>Kursus Gitar Anak</h4>
-                            Masa belajar: Disesuaikan kebutuhan peserta, idealnya 3-4 tahun
-                            </br>
-                            Format belajar: berkelompok 2-5 orang
-                            </br>
-                            Waktu belajar: 1×60 menit per minggu, 4x per bulan (menyesuaikan kebutuhan peserta)   
+                            Poomsae atau rangkaian jurus adalah rangkaian teknik gerakan dasar serangan dan pertahanan diri dengan mengikuti diagram tertentu. Setiap diagram rangkaian gerakan poomsae didasari oleh filosofi ketimuran yang menggambarkan semangat dan cara pandang bangsa Korea.
                         </li>
                         </br>
                         <li>
-                            <h4>Kursus Keyboard Anak</h4>
-                            Masa belajar: 3-4 tahun (atau disesuaikan kebutuhan peserta)
-                            </br>
-                            Format belajar: berkelompok 2-5 orang
-                            </br>
-                            Waktu belajar: 1×60 menit per minggu, 4x per bulan
-                        </li>
-                        </br>
-                        <li>
-                            <h4>Kursus Gitar Dewasa</h4>
-                            Masa belajar: 3-4 tahun (atau disesuaikan kebutuhan peserta)
-                            </br>
-                            Format belajar: berkelompok 2-5 orang
-                            </br>
-                            Waktu belajar: 1×60 menit per minggu, 4x per bulan
-                        </li>
-                        </br>
-                        <li>
-                            <h4>Kursus Keyboard Dewasa</h4>
-                            Masa belajar: 3-4 tahun (atau disesuaikan kebutuhan peserta)
-                            </br>
-                            Format belajar: berkelompok 2-5 orang
-                            </br>
-                            Waktu belajar: 1×60 menit per minggu, 4x per bulan
+                            Kyorugi atau pertarungan adalah latihan yang mengaplikasikan teknik gerakan dasar di mana dua orang bertarung saling mempraktikkan teknik serangan dan pertahanan kaki.
                         </li>
                         </br>
                     </ul> 
                 </p>
-                <h3 class="mb-4">Pertanyaan Umum</h3>
                 <p class="mb-4">
-                    <ol>
-                        <li>
-                            Apakah untuk mengikuti kursus Gitar/Keyboard di PKBM CKB harus memiliki sendiri Gitar atau Keyboardnya?
-                            </br>
-                            </br>
-                            <b>Lebih baik memiliki sendiri, namun jika tidak pun di PKBM CKB tersedia unit gitar dan keyboard yang digunakan untuk kursus.</b>
-                        </li>
-                        </br>
-                        <li>
-                            Bagaimana saya bisa mendaftar kursus musik?
-                            </br></br>
-                            <b>Khusus untuk kursus musik di PKBM CKB, mohon untuk mendaftar secara berkelompok  langsung datang ke kantor PKBM CKB dan mengisi formulir pendaftaran. Jadwal dan waktu kursus disesuaikan dengan kesediaan kelompok saat pertama kali mendaftar dan dapat disesuaikan kembali dengan tutor kursus saat sudah berjalan.</b>
-                        </li>
-                        </br>
-                    </ol> 
+                    Latihan Taekwondo di PKBM Cahaya Kahuripan Bangsa diselenggarakan pada:
+                    </br>
+                    </br>
+                    Hari: Sabtu
+                    </br>
+                    Waktu: 10.30 – 11.30
+                    </br>
+                    Tempat: Kantor PKBM Cahaya Kahuripan Bangsa
+                </p>
+                <p>
+                    Untuk mendaftar, calon pendaftar dapat langsung mendatangi kantor PKBM CKB pada jadwal latihan dan bergabung dengan peserta latihan Taekwondo lain.
+                    </br>
+                    </br>
+                    Kegiatan Taekwondo ini terbuka untuk semua orang berusia 5 tahun ke atas.
                 </p>
             </div>
         </section>

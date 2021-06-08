@@ -51,9 +51,9 @@
                                 <li><a class="dropdown-item" href="/inggris">Kursus Bahasa Inggris</a></li>
                                 <li><a class="dropdown-item" href="/komputer">Kursus Komputer</a></li>
                                 <li><a class="dropdown-item" href="/musik">Kursus Musik</a></li>
-                                <li><a class="dropdown-item" href="#">Kober Cahaya Bintang</a></li>
-                                <li><a class="dropdown-item" href="#">Taekwondo</a></li>
-                                <li><a class="dropdown-item" href="#">Karate INKAI</a></li>
+                                <li><a class="dropdown-item" href="/kober">Kober Cahaya Bintang</a></li>
+                                <li><a class="dropdown-item" href="/taekwondo">Taekwondo</a></li>
+                                <li><a class="dropdown-item" href="/karate">Karate INKAI</a></li>
                             </ul>
                             </li>
                         </ul>

@@ -36,6 +36,15 @@ Route::get('/komputer', function () {
 Route::get('/musik', function () {
     return view('musik');
 });
+Route::get('/kober', function () {
+    return view('kober');
+});
+Route::get('/taekwondo', function () {
+    return view('taekwondo');
+});
+Route::get('/karate', function () {
+    return view('karate');
+});
 
 Auth::routes();
 
