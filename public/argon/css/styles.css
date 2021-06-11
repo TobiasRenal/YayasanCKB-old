@@ -11035,3 +11035,42 @@ header.masthead h1, header.masthead .h1 {
 .text-left{
   text-align: left;
 }
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(40, 22, 111, 0.9);
+}
+
+.container-hover {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+.container-hover:hover .overlay {
+  opacity: 1;
+}
+.text-caption {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.image {
+  max-width: 100%;
+  height: auto;
+}

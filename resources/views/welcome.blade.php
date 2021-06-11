@@ -131,73 +131,66 @@
             </div>
         </section>
         <!-- Portfolio-->
-        <div id="portfolio">
+        <div id="">
             <div class="container-fluid p-0">
                 <h2 class="text-center mt-0">Layanan yang tersedia</h2>
                 <hr class="divider" />
                 <div class="row g-0">
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/kesetaraan.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/kesetaraan.jpg" alt="..." />
-                            <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Program</div>
-                                <div class="project-name">Kesetaraan</div>
+                    <div class="col-lg-4 col-sm-6 container-hover">
+                        <a href="/">
+                            <img src="{{ asset('argon') }}/img/portfolio/thumbnails/kesetaraan.jpg" alt="Avatar" class="image">
+                            <div class="overlay">
+                                <div class="text-caption">Program </br> Kesetaraan</div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/kursusinggris.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/kursusinggris.jpg" alt="..." />
-                            <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Program</div>
-                                <div class="project-name">Kursus Bahasa Inggris</div>
+                    <div class="col-lg-4 col-sm-6 container-hover">
+                        <a href="/inggris">
+                            <img src="{{ asset('argon') }}/img/portfolio/thumbnails/kursusinggris.jpg" alt="Avatar" class="image">
+                            <div class="overlay">
+                                <div class="text-caption">Program </br> Kursus Bahasa Inggris</div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/kelaskomputer.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/kelaskomputer.jpg" alt="..." />
-                            <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Program</div>
-                                <div class="project-name">Kursus Komputer</div>
+                    <div class="col-lg-4 col-sm-6 container-hover">
+                        <a href="/komputer">
+                            <img src="{{ asset('argon') }}/img/portfolio/thumbnails/kelaskomputer.jpg" alt="Avatar" class="image">
+                            <div class="overlay">
+                                <div class="text-caption">Program </br> Kursus Komputer</div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/musik.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/musik.jpg" alt="..." />
-                            <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Program</div>
-                                <div class="project-name">Kursus Musik</div>
+                    <div class="col-lg-4 col-sm-6 container-hover">
+                        <a href="/musik">
+                            <img src="{{ asset('argon') }}/img/portfolio/thumbnails/musik.jpg" alt="Avatar" class="image">
+                            <div class="overlay">
+                                <div class="text-caption">Program </br> Kursus Musik</div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/paud.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/paud.jpg" alt="..." />
-                            <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Program</div>
-                                <div class="project-name">Kober Cahaya Bintang</div>
+                    <div class="col-lg-4 col-sm-6 container-hover">
+                        <a href="/kober">
+                            <img src="{{ asset('argon') }}/img/portfolio/thumbnails/paud.jpg" alt="Avatar" class="image">
+                            <div class="overlay">
+                                <div class="text-caption">Program </br> Kober Cahaya Bintang</div>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/taekwondo.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/taekwondo.jpg" alt="..." />
-                            <div class="portfolio-box-caption p-3">
-                                <div class="project-category text-white-50">Program</div>
-                                <div class="project-name">Taekwondo</div>
+                    <div class="col-lg-4 col-sm-6 container-hover">
+                        <a href="/taekwondo">
+                            <img src="{{ asset('argon') }}/img/portfolio/thumbnails/taekwondo.jpg" alt="Avatar" class="image">
+                            <div class="overlay">
+                                <div class="text-caption">Program </br> Taekwondo</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-3">
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ asset('argon') }}/img/portfolio/fullsize/karate.jpg" title="Project Name">
-                            <img class="img-fluid" src="{{ asset('argon') }}/img/portfolio/thumbnails/karate.jpg" alt="..." />
-                            <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Program</div>
-                                <div class="project-name">Karate INKAI</div>
+                    <div class="col-lg-4 col-sm-6 container-hover">
+                        <a href="/karate">
+                            <img src="{{ asset('argon') }}/img/portfolio/thumbnails/karate.jpg" alt="Avatar" class="image">
+                            <div class="overlay">
+                                <div class="text-caption">Program </br> Karate INKAI</div>
                             </div>
                         </a>
                     </div>

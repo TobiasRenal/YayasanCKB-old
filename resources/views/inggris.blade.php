@@ -122,7 +122,7 @@
                 <h2 class="mb-4">
                     SKL English for Kids
                 </h2>
-                <table class="table table-striped table-hover">
+                <table class="table table-striped table-hover align-middle">
                 <thead>
                     <tr>
                     <th scope="col">No</th>
@@ -200,15 +200,53 @@
                             4.5. Mendeskripsikan banyak benda yang ditemui dalam konteks kehidupan keseharian dengan menggunakan bilangan cacah
                         </td>
                     </tr>
+                    <tr>
+                        <th scope="row">5</th>
+                        <td>
+                            Peserta kursus dapat memperkenalkan dirinya sendiri kepada orang yang baru ditemui dalam percakapan dua orang, dan memperkenalkan diri di depan umum
+                        </td>
+                        <td>
+                            5.1. Memperkenalkan diri sendiri dalam percakapan dua orang
+                            </br>
+                            </br>
+                            5.2. Memperkenalkan diri sendiri dalam percakapan kelompok kecil (2-5 orang)
+                            </br>
+                            </br>
+                            5.3. Memperkenalkan diri sendiri kepada kelompok di atas 5 orang
+                            </br>
+                            </br>
+                            5.4. Menanyakan informasi tentang orang lain yang belum dikenal kepada teman yang mengenalnya
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">6</th>
+                        <td>
+                            Peserta kursus dapat menggunakan kata ganti benda (it, this, dan that) untuk mendeskripsikan benda dan fenomena yang ditemuinya dalam konteks kehidupan keseharian
+                        </td>
+                        <td>
+                            6.1. Menggunakan kata ganti benda (it, this, dan that) untuk mendeskripsikan benda dan fenomena dalam kehidupan keseharian
+                            </br>
+                            </br>
+                            6.2. Menanyakan benda dan fenomena dalam kehidupan keseharian dengan menggunakan kata ganti benda (it, this, dan that) sesuai dengan konteks percakapan
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">7</th>
+                        <td>
+                            Peserta kursus dapat menggunakan kata ganti orang untuk mendeskripsikan pribadi individu atau kelompok tertentu dalam kehidupannya
+                        </td>
+                        <td>
+                            7.1. Menggunakan kata ganti perseorangan individu (he, she, it) serta nama individu untuk mendeskiprisikan pribadi seseorang
+                            </br>
+                            </br>
+                            7.2. Menggunakan kata ganti jamak/kelompok (you, they, we) serta identitas kelompok (i.e. A and B) untuk mendeskripsikan kelompok tertentu
+                            </br>
+                            </br>
+                            7.3. Menggunakan kata ganti pihak pertama dan kedua (I, you) untuk membicarakan diri sendiri atau lawan bicara
+                        </td>
+                    </tr>
                 </tbody>
                 </table>
-            </div>
-        </section>
-        <!-- Call to action-->
-        <section class="page-section bg-dark text-white">
-            <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-                <a class="btn btn-light btn-xl" href="https://startbootstrap.com/theme/creative/">Download Now!</a>
             </div>
         </section>
         <!-- Footer-->
