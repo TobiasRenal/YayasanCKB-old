@@ -123,6 +123,25 @@
                 <h3 class="mb-4">
                     Microsoft Office Word
                 </h3>
+                <p class="mb-4">
+                    <img src="{{ asset('argon') }}/img/portfolio/thumbnails/msword.png" alt="Word" style="width:170px;height:170px;margin-right:15px;" class="fl-left">
+                    <div class = "w-50 align-middle tengah">
+                        Microsoft Word adalah perangkat lunak pengolah kata andalan Microsoft. 
+                        Word pertama kali diterbitkan pada tahun 1983 dengan nama Multi-Tool Word untuk Xenix. Microsoft Word, 
+                        sejak versi 2013, cukup dinamakan Word saja.
+                    </div>
+                </p>
+                <h3 class="mb-4">
+                    Microsoft Office Excel
+                </h3>
+                <p class="mb-4">
+                    <img src="{{ asset('argon') }}/img/portfolio/thumbnails/msword.png" alt="Word" style="width:170px;height:170px;margin-right:15px;" class="fl-left">
+                    <div class = "w-50 align-middle tengah">
+                        Microsoft Word adalah perangkat lunak pengolah kata andalan Microsoft. 
+                        Word pertama kali diterbitkan pada tahun 1983 dengan nama Multi-Tool Word untuk Xenix. Microsoft Word, 
+                        sejak versi 2013, cukup dinamakan Word saja.
+                    </div>
+                </p>
             </div>
         </section>
         <!-- Portfolio-->

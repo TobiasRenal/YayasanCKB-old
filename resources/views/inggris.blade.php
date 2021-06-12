@@ -119,9 +119,9 @@
                     </br>
                     Survival English — program kursus keterampilan berbahasa Inggris minimal untuk dapat melakukan fungsi sosial dalam masyarakat dengan menggunakan struktur kalimat dan kosa kata sederhana. 
                 </p>
-                <h2 class="mb-4">
+                <h1 class="txt-blue mb-4 text-center">
                     SKL English for Kids
-                </h2>
+                </h1>
                 <table class="table table-striped table-hover align-middle">
                 <thead>
                     <tr>

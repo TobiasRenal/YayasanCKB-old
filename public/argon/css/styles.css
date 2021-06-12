@@ -10868,6 +10868,9 @@ body {
 .text-blue-75 {
   color: rgba(40, 22, 111, 0.75) !important;
 }
+.txt-blue {
+  color: rgba(40, 22, 111, 1) !important;
+}
 
 .btn-xl {
   padding: 1.25rem 2.25rem;
@@ -11073,4 +11076,23 @@ header.masthead h1, header.masthead .h1 {
 .image {
   max-width: 100%;
   height: auto;
+}
+
+.fl-left{
+  float: left;
+}
+.fl-right{
+  float: right;
+}
+
+.tengah{
+  padding: 1em 0;
+}
+
+.txt-right{
+  text-align: right;
+}
+
+.pd-left{
+  padding-left: 30%;
 }
