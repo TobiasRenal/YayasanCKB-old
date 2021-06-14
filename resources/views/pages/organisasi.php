@@ -50,26 +50,26 @@
           <!-- Nav items -->
           <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="{{ route('home') }}">
-                    <i class="ni ni-tv-2 text-primary"></i> {{ __('Dashboard') }}
+                <a class="nav-link" href="/home">
+                    <i class="ni ni-tv-2 text-primary"></i> Dashboard
                 </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link active" href="#navbar-examples" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="navbar-examples">
                     <i class="ni ni-calendar-grid-58" style="color: #f4645f;"></i>
-                    <span class="nav-link-text" style="color: #f4645f;">{{ __('Jadwal') }}</span>
+                    <span class="nav-link-text" style="color: #f4645f;">Jadwal</span>
                 </a>
 
                 <div class="collapse hide" id="navbar-examples">
                     <ul class="nav nav-sm flex-column">
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('profile.edit') }}">
-                                {{ __('Rapat') }}
+                            <a class="nav-link" href="/profile">
+                                Rapat
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('user.index') }}">
-                                {{ __('Event') }}
+                            <a class="nav-link" href="/user">
+                                Event
                             </a>
                         </li>
                     </ul>
@@ -78,22 +78,22 @@
 
             <li class="nav-item">
                 <a class="nav-link" href="#">
-                    <i class="ni ni-badge text-blue"></i> {{ __('Organisasi') }}
+                    <i class="ni ni-badge text-blue"></i> Organisasi
                 </a>
             </li>
             <li class="nav-item ">
-                <a class="nav-link" href="{{ route('map') }}">
-                    <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Program kerja') }}
+                <a class="nav-link" href="/map">
+                    <i class="ni ni-briefcase-24 text-orange"></i>Program Kerja
                 </a>
             </li>
             <li class="nav-item ">
                     <a class="nav-link" href="{{ route('map') }}">
-                        <i class="ni ni-paper-diploma text-blue"></i> {{ __('Asset') }}
+                        <i class="ni ni-paper-diploma text-blue"></i> Asset
                     </a>
                 </li>
                 <li class="nav-item ">
                     <a class="nav-link" href="{{ route('map') }}">
-                        <i class="ni ni-money-coins text-green"></i> {{ __('Keuangan') }}
+                        <i class="ni ni-money-coins text-green"></i> Keuangan
                     </a>
                 </li>
             <li class="nav-item">
