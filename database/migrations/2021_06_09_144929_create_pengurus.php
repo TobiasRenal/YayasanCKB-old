@@ -14,7 +14,12 @@ class CreatePengurus extends Migration
     public function up()
     {
         Schema::create('pengurus', function (Blueprint $table) {
-            $table->id();
+            $table->id('Id_pengurus');
+            $table->integer('role_id_pengurus');
+            $table->char('Nama_pengurus',255);
+            $table->dateTime('Tempat tanggal lahir',$precision = 0);
+            $table->char('Alamat',255);
+            $table->integer('Notelepon');
             $table->timestamps();
         });
     }

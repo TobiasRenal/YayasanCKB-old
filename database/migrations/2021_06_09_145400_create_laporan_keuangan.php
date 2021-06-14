@@ -14,7 +14,12 @@ class CreateLaporanKeuangan extends Migration
     public function up()
     {
         Schema::create('laporan_keuangan', function (Blueprint $table) {
-            $table->id();
+            $table->id('Id_keuangan');
+            $table->integer('role_id_pengurus');
+            $table->char('Nama_Keuangan',255);
+            $table->dateTime('Tempat dan tanggal laporan keuangan',$precision = 0);
+            $table->integer('Jumlah');
+            $table->char('Keterangan',255);
             $table->timestamps();
         });
     }

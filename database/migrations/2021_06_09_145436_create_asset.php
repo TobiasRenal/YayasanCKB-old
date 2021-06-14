@@ -14,7 +14,13 @@ class CreateAsset extends Migration
     public function up()
     {
         Schema::create('asset', function (Blueprint $table) {
-            $table->id();
+            $table->id('Id_Asset');
+            $table->integer('role_id_pengurus');
+            $table->char('Nama_asset',255);
+            $table->dateTime('Tempat perolehan',$precision = 0);
+            $table->integer('Nilai perolehan');
+            $table->char('Asal asset',255);
+            $table->char('Keterangan',255);
             $table->timestamps();
         });
     }

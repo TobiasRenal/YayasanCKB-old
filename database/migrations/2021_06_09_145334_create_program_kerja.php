@@ -14,7 +14,12 @@ class CreateProgramKerja extends Migration
     public function up()
     {
         Schema::create('program_kerja', function (Blueprint $table) {
-            $table->id();
+            $table->id('Id_program');
+            $table->integer('role_id_pengurus');
+            $table->char('Nama_program',255);
+            $table->char('Besar anggaran',255);
+            $table->char('Pencapaian',255);
+            $table->char('Kendala',255);
             $table->timestamps();
         });
     }

@@ -14,10 +14,11 @@ class CreateLogin extends Migration
     public function up()
     {
         Schema::create('login', function (Blueprint $table) {
-            $table->id();
+            $table->id('id_Pengurus');
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
-            $table->string('password');
+            $table->char('password',255);
+            $table->integer('role_id_pengurus');
             $table->rememberToken();
             $table->timestamps();
         });
