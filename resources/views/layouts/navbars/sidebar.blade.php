@@ -111,7 +111,7 @@
                     </a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link" href="{{ route('map') }}">
+                    <a class="nav-link" href="{{ route('proker') }}">
                         <i class="ni ni-briefcase-24 text-orange"></i> {{ __('Program Kerja') }}
                     </a>
                 </li>

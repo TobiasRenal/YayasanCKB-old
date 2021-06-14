@@ -77,12 +77,12 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="/organisasi">
                     <i class="ni ni-badge text-blue"></i> Organisasi
                 </a>
             </li>
             <li class="nav-item ">
-                <a class="nav-link" href="/proker">
+                <a class="nav-link" href="#">
                     <i class="ni ni-briefcase-24 text-orange"></i>Program Kerja
                 </a>
             </li>
@@ -389,12 +389,12 @@
         <div class="header-body">
           <div class="row align-items-center py-4">
             <div class="col-lg-6 col-7">
-              <h6 class="h2 text-white d-inline-block mb-0">Icons</h6>
+              <h6 class="h2 text-white d-inline-block mb-0">Program Kerja</h6>
               <nav aria-label="breadcrumb" class="d-none d-md-inline-block ml-md-4">
                 <ol class="breadcrumb breadcrumb-links breadcrumb-dark">
                   <li class="breadcrumb-item"><a href="#"><i class="fas fa-home"></i></a></li>
                   <li class="breadcrumb-item"><a href="#">Components</a></li>
-                  <li class="breadcrumb-item active" aria-current="page">Icons</li>
+                  <li class="breadcrumb-item active" aria-current="page">Proker</li>
                 </ol>
               </nav>
             </div>

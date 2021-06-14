@@ -60,7 +60,8 @@ Route::group(['middleware' => 'auth'], function () {
 	Route::get('upgrade', function () {return view('pages.upgrade');})->name('upgrade'); 
 	 Route::get('map', function () {return view('pages.maps');})->name('map');
 	 Route::get('icons', function () {return view('pages.icons');})->name('icons'); 
-     Route::get('organisasi', function () {return view('pages.organisasi');})->name('organisasi'); 
+     Route::get('organisasi', function () {return view('pages.organisasi');})->name('organisasi');
+     Route::get('proker', function () {return view('pages.proker');})->name('proker'); 
 	 Route::get('table-list', function () {return view('pages.tables');})->name('table');
 	Route::put('profile/password', ['as' => 'profile.password', 'uses' => 'App\Http\Controllers\ProfileController@password']);
 });
