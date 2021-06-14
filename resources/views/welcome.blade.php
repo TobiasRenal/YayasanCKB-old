@@ -197,13 +197,18 @@
                 </div>
             </div>
         </div>
-        <!-- Call to action-->
-        <section class="page-section bg-dark text-white">
-            <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-                <a class="btn btn-light btn-xl" href="https://startbootstrap.com/theme/creative/">Download Now!</a>
+        <!--Google map-->
+        <section class="page-section" id="services">
+            <div>
+                <h2 class="text-center mt-0">Temukan kami</h2>
+                <hr class="divider" />
+                <div id="map-container-google-2" class="z-depth-1-half map-container" style="height: 500px">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3961.6350473741536!2d107.62346140649842!3d-6.814166840346534!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe66435eac466ed54!2sPKBM%20Cahaya%20Kahuripan%20Bangsa!5e0!3m2!1sid!2sid!4v1623674578506!5m2!1sid!2sid" frameborder="0"
+                    style="border:0" allowfullscreen></iframe>
+                </div>
             </div>
         </section>
+        <!--Google Maps-->
         <!-- Footer-->
         <footer class="bg-light py-5">
             <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2021 - Yayasan Cahaya Kahuripan Bangsa</div></div>

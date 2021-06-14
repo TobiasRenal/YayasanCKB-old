@@ -106,7 +106,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ route('icons') }}">
+                    <a class="nav-link" href="{{ route('organisasi') }}">
                         <i class="ni ni-badge text-blue"></i> {{ __('Organisasi') }}
                     </a>
                 </li>
