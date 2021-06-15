@@ -121,6 +121,11 @@
                     </a>
                 </li>
                 <li class="nav-item ">
+                    <a class="nav-link" href="/inventaris">
+                        <i class="ni ni-paper-diploma text-blue"></i> {{ __('inventaris') }}
+                    </a>
+                </li>
+                <li class="nav-item ">
                     <a class="nav-link" href="{{ route('map') }}">
                         <i class="ni ni-money-coins text-green"></i> {{ __('Keuangan') }}
                     </a>

@@ -92,7 +92,12 @@
                     </a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link" href="{{ route('map') }}">
+                    <a class="nav-link" href="/inventaris">
+                        <i class="ni ni-paper-diploma text-blue"></i> Inventaris
+                    </a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link" href="/asset">
                         <i class="ni ni-money-coins text-green"></i> Keuangan
                     </a>
                 </li>
