@@ -417,10 +417,11 @@
         <thead class="thead-light">
           <tr>
             <th scope="col">ID</th>
-            <th scope="col">Nama</th>
-            <th scope="col">Alamat</th>
-            <th scope="col">Tempat/Tanggal Lahir</th>
-            <th scope="col">Nomor Telepon</th>
+            <th scope="col">Nama Inventaris</th>
+            <th scope="col">Tanggal perolehan</th>
+            <th scope="col">Nilai perolehan</th>
+            <th scope="col">Asal Inventaris</th>
+            <th scope="col">Keterangan</th>
             <th scope="col">Role</th>
             <th scope="col"></th>
           </tr>
@@ -431,21 +432,24 @@
             <th scope="row">
               <div class="media align-items-center">
                 <div class="media-body">
-                  <span class="mb-0 text-sm">Tobias Renal Arianto</span>
+                <span class="mb-0 text-sm">Kursi</span>
                 </div>
               </div>
             </th>
             <td>
-              Komplek ABCD Nomor 1
+              10 November 2021
             </td>
             <td>
-              Bandung, 27 September 2000
+                Rp 1,000,000
             </td>
             <td>
-              081234567890
+              Giveaway
             </td>
             <td>
-              Admin
+             Mulus no minus
+            </td>
+            <td>
+             Admin
             </td>
             <td class="text-right">
               <div class="dropdown">
