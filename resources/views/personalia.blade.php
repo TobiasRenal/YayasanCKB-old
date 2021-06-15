@@ -77,7 +77,217 @@
         </section>
         <!-- Services-->
         <section class="page-section" id="services">
-            
+            <h1 class="text-center mt-0">Layanan yang tersedia</h1>
+            <hr class="divider" />
+            <div class="row py-5">
+                <div class="col-lg-4 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/ketua.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Lince Sari Dianawati Leatemia, M.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Kepala PKBM</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/sekre.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Elisabeth Lusitania Desiawati</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Sekretaris PKBM</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/pengelolakober.jpeg" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Sarah Fikriyyah Nurul Adillah</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Pengelola Kober Cahaya Bintang</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Rina Sulistia, S.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor2.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Komar Kusmawan</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor3.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Wahyudiana, S.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor4.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Diana Yulian Herdijah, S.Si.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor5.jpeg" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Dra. Dwira Maya, M.A.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor6.jpeg" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Dian Nuraeni, S.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor7.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Susi Ernawati, S.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor8.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Ade Santi</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor9.jpeg" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Christina Juliana Narulita Dendo</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor10.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Siti Elah Julaeha, M.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor11.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Imas Siti Aminah, S.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor12.jpeg" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Dedi Herdiana</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor13.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Wawan Setiawan</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor14.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Wulansari, S.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor15.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Aldian Hudaya, S.Pd.</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor16.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Saipul Pajri Rusli</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor17.jpeg" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Ivan Sholeh Dauzan Farouq</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor17.jpeg" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Ucih</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/tutor17.jpeg" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Bastari</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Tutor</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <figure class="rounded p-3 bg-white shadow-sm">
+                        <img src="{{ asset('argon') }}/img/gambar/driver.png" alt="" class="w-100 card-img-top">
+                        <figcaption class="p-4 card-img-bottom">
+                        <h2 class="h5 font-weight-bold mb-2 font-italic">Agung Sundara</h2>
+                        <p class="mb-0 text-small text-muted font-italic">Driver</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
         </section>
         <!-- Footer-->
         <footer class="bg-light py-5">

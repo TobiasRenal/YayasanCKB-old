@@ -11109,3 +11109,24 @@ header.masthead h1, header.masthead .h1 {
   width:100%;
   position:absolute;
   }
+
+  .caption-1 figcaption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  
+  .caption-2 figcaption {
+    width: 80%;
+    position: absolute;
+    bottom: 1rem;
+    left: 10%;
+    background: rgba(255, 255, 255, 0.6);
+  }
+  
+  .caption-3 figcaption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: translateY(-50%);
+  }
