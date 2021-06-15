@@ -34,7 +34,7 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                 <li><a class="dropdown-item" href="/sejarah">Latar Belakang & Sejarah</a></li>
-                                <li><a class="dropdown-item" href="#">Personalia</a></li>
+                                <li><a class="dropdown-item" href="/personalia">Personalia</a></li>
                                 <li><a class="dropdown-item" href="#">Kurikulum</a></li>
                             </ul>
                             </li>
@@ -131,15 +131,52 @@
                         sejak versi 2013, cukup dinamakan Word saja.
                     </div>
                 </p>
+                </br>
                 <h3 class="mb-4">
                     Microsoft Office Excel
                 </h3>
                 <p class="mb-4">
-                    <img src="{{ asset('argon') }}/img/portfolio/thumbnails/msword.png" alt="Word" style="width:170px;height:170px;margin-right:15px;" class="fl-left">
+                    <img src="{{ asset('argon') }}/img/portfolio/thumbnails/msexcel.png" alt="Word" style="width:170px;height:170px;margin-right:15px;" class="fl-left">
                     <div class = "w-50 align-middle tengah">
-                        Microsoft Word adalah perangkat lunak pengolah kata andalan Microsoft. 
-                        Word pertama kali diterbitkan pada tahun 1983 dengan nama Multi-Tool Word untuk Xenix. Microsoft Word, 
-                        sejak versi 2013, cukup dinamakan Word saja.
+                        Microsoft Excel adalah perangkat lunak lembar kerja yang dibuat oleh Miceosoft. 
+                        Excel memiliki fitur kalkulasi dan pembuatan grafik yang paling populer dalam dunia komputer aplikasi perkantoran hingga saat ini.
+                    </div>
+                </p>
+                </br>
+                <h3 class="mb-4">
+                    Microsoft Office PowerPoint
+                </h3>
+                <p class="mb-4">
+                    <img src="{{ asset('argon') }}/img/portfolio/thumbnails/mspoint.png" alt="Word" style="width:170px;height:170px;margin-right:15px;" class="fl-left">
+                    <div class = "w-50 align-middle tengah">
+                        Microsoft PowerPoint adalah perangkat lunak presentasi yang dikembangkan di Microsoft. 
+                        Aplikasi ini sangat banyak digunakan, khususnya di kalangan perkantoran, pebisnis, pendidik, pelajar, dan kalangan lainnya. 
+                        PowerPoint digunakan untuk menyiapkan tayangan presentasi.
+                    </div>
+                </p>
+                </br>
+                <h3 class="mb-4">
+                    Google Mail (Gmail)
+                </h3>
+                <p class="mb-4">
+                    <img src="{{ asset('argon') }}/img/portfolio/thumbnails/gmail.png" alt="Word" style="width:170px;height:170px;margin-right:15px;" class="fl-left">
+                    <div class = "w-50 align-middle tengah">
+                        Gmail adalah layanan surat elektronik milik Google. 
+                        Sebagai bentuk apresiasi kerjasama PKBM CKB dengan Google melalui G Suite for Education, 
+                        seluruh peserta kursus komputer akan difasilitasi dengan keterampilan menggunakan Gmail untuk berkirim surat elektronik. 
+                        Gmail bisa diakses dari komputer maupun gawai.
+                    </div>
+                </p>
+                </br>
+                <h3 class="mb-4">
+                    Google Chrome
+                </h3>
+                <p class="mb-4">
+                    <img src="{{ asset('argon') }}/img/portfolio/thumbnails/chrome.png" alt="Word" style="width:170px;height:170px;margin-right:15px;" class="fl-left">
+                    <div class = "w-50 align-middle tengah">
+                        Google Chrome adalah peramban internet sumber terbuka yang dikembangkan oleh Google dengan menggunakan mesin penyaji WebKit. 
+                        Google Chrome menjadi peramban web paling populer. Di PKBM CKB, peserta kursus akan dibekali keterampilan menjelajah internet dengan Chrome, 
+                        menggunakan layanan internet, serta keterampilan literasi digital yang komprehensif.
                     </div>
                 </p>
             </div>

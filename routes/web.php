@@ -45,6 +45,9 @@ Route::get('/taekwondo', function () {
 Route::get('/karate', function () {
     return view('karate');
 });
+Route::get('/personalia', function () {
+    return view('personalia');
+});
 
 Auth::routes();
 

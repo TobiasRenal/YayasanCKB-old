@@ -33,8 +33,8 @@
                                 Profile
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                <li><a class="dropdown-item" href="#page-top">Latar Belakang & Sejarah</a></li>
-                                <li><a class="dropdown-item" href="/personalia">Personalia</a></li>
+                                <li><a class="dropdown-item" href="/sejarah">Latar Belakang & Sejarah</a></li>
+                                <li><a class="dropdown-item" href="#page-top">Personalia</a></li>
                                 <li><a class="dropdown-item" href="#">Kurikulum</a></li>
                             </ul>
                             </li>
@@ -65,59 +65,20 @@
                 </div>
             </div>
         </nav>
-        <!-- Masthead-->
-        <!-- <header class="masthead">
-        </header> -->
         <!-- About-->
         <section class="page-section bg-primary" id="about">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">Latar Belakang & Sejarah</h2>
+                        <h2 class="text-white mt-0">Kober Cahaya Bintang</h2>
                     </div>
                 </div>
             </div>
         </section>
         <!-- Services-->
         <section class="page-section" id="services">
-            <div class="container px-4 px-lg-5">
-                <p class="mb-4">
-                    Pusat Kegiatan Belajar Masyarakat (PKBM) merupakan prakarsa pembelajaran masyarakat yang didirikan dari, oleh, dan untuk masyarakat. 
-                    PKBM adalah suatu institusi yang berbasis masyarakat (Community Based Institution). Terminologi PKBM dari masyarakat, berarti bahwa pendirian PKBM merupakan inisiatif dari masyarakat itu sendiri. 
-                    Keinginan itu datang dari suatu kesadaran akan pentingnya peningkatan mutu kehidupan melalui suatu proses transformasional dan pembelajaran. 
-                    Inisiatif ini dapat dihasilkan melalui suatu proses sosialisasi akan pentingnya PKBM sebagai wadah pemberdayaan masyarakat kepada beberapa anggota atau tokoh masyarakat setempat oleh pihak pemerintah ataupun pihak lain di luar komunitas tersebut.
-                </p>
-                <p class="mb-4">
-                    Oleh masyarakat,berarti bahwa penyelenggaraan, pengembangan, dan keberlanjutan PKBM sepenuhnya menjadi tanggung jawab masyarakat itu sendiri. 
-                    Ini juga bermakna adanya semangat kebersamaan, kemandirian, dan gotong royong dalam pengelolaan PKBM serta penyelenggaraan berbagai program pendidikan masyarakat pada lembaga tersebut. 
-                </p>
-                <p class="mb-4">
-                    Untuk masyarakat,berarti bahwa keberadaan PKBM sepenuhnya untuk kemajuan dan keberdayaan kehidupan masyarakat tempat lembaga tersebut berada. 
-                    Eksistensi lembaga didasarkan pada pemilihan program-program yang sesuai dengan kebutuhan pendidikan atau pemberdayaan masyarakat. 
-                    Hal ini tidak menutup kemungkinan anggota masyarakat di luar komunitas tersebut ikut serta dalam berbagai program dan kegiatan yang diselenggarakan PKBM. 
-                    Masyarakat bertindak sekaligus sebagai subjek dan objek dalam berbagai kegiatan yang diselenggarakan oleh PKBM. 
-                    Berdasarkan data dari Badan Pusat Statistik (BPS) Kabupaten Bandung Barat tahun 2010 mengenai Penduduk Usia 10 tahun ke Atas Menurut Kelompok Umur dan Partisipasi Sekolah Laki-laki + Perempuan, penduduk Bandung barat Usia Sekolah, 10 – 19 tahun, ternyata masih banyak yang tidak/belum sekolah serta tidak bersekolah lagi (putus sekolah). 
-                    Kemudian berdasarkan informasi PKBM milik beberapa yayasan swasta di Lembang, angka putus sekolah di kecamatan Lembang diperkirakan mencapai lebih dari seribu orang. 
-                    Bahkan kehadiran beberapa PKBM di Lembang ternyata belum mampu  memangkas kisaran jumlah putus sekolah yang tinggi, yang sebagian besar disebabkan faktor ekonomi. 
-                </p>
-                <p class="mb-4">
-                    Berikut data dari Badan Pusat Statistik (BPS) Kabupaten Bandung Barat.
-                    </br>
-                    </br>
-                    <img src="{{ asset('argon') }}/img/gambar/tabelpenduduk.png" alt="Tabel Penduduk" class = "center-img">
-                </p>
-                <p class="mb-4">
-                    Sebagai terobosan atas lingkaran kesulitan ini, Yayasan Cahaya Kahuripan Bangsa (CKB) mengambil inisiatif 
-                    untuk menyelenggarakan PKBM secara mandiri bagi masyarakat Lembang dan sekitarnya, yang merupakan bagian dari Kabupaten Bandung Barat, secara gratis. 
-                </p>
-                <p class="mb-4">
-                    Akhirnya setelah melengkapi berbagai persyaratan perizinan sesuai dengan ketetapan Dinas Pendidikan Bandung Barat, pada 4 Juni 2013, 
-                    Kepala Dinas Pendidikan Pemuda dan Olahraga Kabupaten Bandung Barat menerbitkan Surat Keputusan (SK) Nomor 421/2522.1 
-                    tentang Pemberian Izin Penyelenggaraan Pusat Kegiatan Belajar Masyarakat (PKBM) Cahaya Kahuripan Bangsa (CKB) yang berlaku untuk dua tahun.  
-                </p>
-            </div>
+            
         </section>
-        <!-- Portfolio-->
         <!-- Footer-->
         <footer class="bg-light py-5">
             <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2021 - Yayasan Cahaya Kahuripan Bangsa</div></div>

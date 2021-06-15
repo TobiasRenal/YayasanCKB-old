@@ -34,7 +34,7 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                 <li><a class="dropdown-item" href="/sejarah">Latar Belakang & Sejarah</a></li>
-                                <li><a class="dropdown-item" href="#">Personalia</a></li>
+                                <li><a class="dropdown-item" href="/personalia">Personalia</a></li>
                                 <li><a class="dropdown-item" href="#">Kurikulum</a></li>
                             </ul>
                             </li>
@@ -67,14 +67,13 @@
         </nav>
         <!-- Masthead-->
         <!-- <header class="masthead">
-            
         </header> -->
         <!-- About-->
         <section class="page-section bg-primary" id="about">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">Kober Cahaya Bintang</h2>
+                        <h2 class="text-white mt-0">Personalia</h2>
                     </div>
                 </div>
             </div>

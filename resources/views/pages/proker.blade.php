@@ -21,7 +21,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Start your development with a Dashboard for Bootstrap 4.">
   <meta name="author" content="Creative Tim">
-  <title>Argon Dashboard - Free Dashboard for Bootstrap 4</title>
+  <title>Admin | Yayasan CKB</title>
   <!-- Favicon -->
   <link rel="icon" href="../assets/img/brand/favicon.png" type="image/png">
   <!-- Fonts -->
@@ -412,35 +412,57 @@
         <thead class="thead-light">
           <tr>
             <th scope="col">ID</th>
-            <th scope="col">Nama</th>
-            <th scope="col">Alamat</th>
-            <th scope="col">Tempat/Tanggal Lahir</th>
-            <th scope="col">Nomor Telepon</th>
-            <th scope="col">Role</th>
+            <th scope="col">Nama Program</th>
+            <th scope="col">Budget</th>
+            <th scope="col">Status</th>
+            <th scope="col">Personil yang terlibat</th>
+            <th scope="col">Progress</th>
             <th scope="col"></th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th>1</th>
+          <th>1</th>
             <th scope="row">
               <div class="media align-items-center">
                 <div class="media-body">
-                  <span class="mb-0 text-sm">Tobias Renal Arianto</span>
+                  <span class="mb-0 text-sm">Program Kerja A</span>
                 </div>
               </div>
             </th>
             <td>
-              Komplek ABCD Nomor 1
+              Rp.15.000.000
             </td>
             <td>
-              Bandung, 27 September 2000
+              <span class="badge badge-dot">
+                <i class="bg-success"></i> Selesai
+              </span>
             </td>
             <td>
-              081234567890
+              <div class="avatar-group">
+                <a href="#" class="avatar avatar-sm" data-toggle="tooltip" data-original-title="Ryan Tompson">
+                  <img alt="Image placeholder" src="../../assets/img/theme/team-1-800x800.jpg" class="rounded-circle">
+                </a>
+                <a href="#" class="avatar avatar-sm" data-toggle="tooltip" data-original-title="Romina Hadid">
+                  <img alt="Image placeholder" src="../../assets/img/theme/team-2-800x800.jpg" class="rounded-circle">
+                </a>
+                <a href="#" class="avatar avatar-sm" data-toggle="tooltip" data-original-title="Alexander Smith">
+                  <img alt="Image placeholder" src="../../assets/img/theme/team-3-800x800.jpg" class="rounded-circle">
+                </a>
+                <a href="#" class="avatar avatar-sm" data-toggle="tooltip" data-original-title="Jessica Doe">
+                  <img alt="Image placeholder" src="../../assets/img/theme/team-4-800x800.jpg" class="rounded-circle">
+                </a>
+              </div>
             </td>
             <td>
-              Admin
+              <div class="d-flex align-items-center">
+                <span class="mr-2">100%</span>
+                <div>
+                  <div class="progress">
+                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div>
+                  </div>
+                </div>
+              </div>
             </td>
             <td class="text-right">
               <div class="dropdown">
@@ -448,7 +470,7 @@
                   <i class="fas fa-ellipsis-v"></i>
                 </a>
                 <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow">
-                  <a class="dropdown-item" href="#">Action</a>
+                  <a class="dropdown-item" href="#">Detail</a>
                   <a class="dropdown-item" href="#">Update</a>
                   <a class="dropdown-item" href="#">Hapus</a>
                 </div>
