@@ -65,6 +65,8 @@ Route::group(['middleware' => 'auth'], function () {
 	 Route::get('icons', function () {return view('pages.icons');})->name('icons'); 
      Route::get('organisasi', function () {return view('pages.organisasi');})->name('organisasi');
      Route::get('proker', function () {return view('pages.proker');})->name('proker'); 
+     Route::get('asset', function () {return view('pages.asset');})->name('asset');
+     Route::get('inventaris', function () {return view('pages.inventaris');})->name('inventaris');  
 	 Route::get('table-list', function () {return view('pages.tables');})->name('table');
 	Route::put('profile/password', ['as' => 'profile.password', 'uses' => 'App\Http\Controllers\ProfileController@password']);
 });
