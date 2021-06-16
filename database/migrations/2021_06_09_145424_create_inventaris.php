@@ -16,6 +16,7 @@ class CreateInventaris extends Migration
         Schema::create('inventaris', function (Blueprint $table) {
             $table->id('Id_Inventaris');
             $table->integer('role_id_pengurus');
+            $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
             $table->char('Nama_inventaris',255);
             $table->dateTime('Tempat perolehan',$precision = 0);
             $table->integer('Nilai perolehan');

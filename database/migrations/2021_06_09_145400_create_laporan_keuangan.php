@@ -16,6 +16,7 @@ class CreateLaporanKeuangan extends Migration
         Schema::create('laporan_keuangan', function (Blueprint $table) {
             $table->id('Id_keuangan');
             $table->integer('role_id_pengurus');
+            $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
             $table->char('Nama_Keuangan',255);
             $table->dateTime('Tempat dan tanggal laporan keuangan',$precision = 0);
             $table->integer('Jumlah');

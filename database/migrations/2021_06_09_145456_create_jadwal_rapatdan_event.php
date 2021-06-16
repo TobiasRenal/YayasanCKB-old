@@ -16,6 +16,7 @@ class CreateJadwalRapatdanEvent extends Migration
         Schema::create('jadwal_rapatdan_event', function (Blueprint $table) {
             $table->id('Id_jadwal');
             $table->integer('role_id_pengurus');
+            $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
             $table->char('Nama_jadwal',255);
             $table->dateTime('Tanggal jadwal',$precision = 0);
             $table->char('Keterangan',255);

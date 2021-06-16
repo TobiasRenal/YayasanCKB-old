@@ -16,6 +16,7 @@ class CreateProgramKerja extends Migration
         Schema::create('program_kerja', function (Blueprint $table) {
             $table->id('Id_program');
             $table->integer('role_id_pengurus');
+            $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
             $table->char('Nama_program',255);
             $table->char('Besar anggaran',255);
             $table->char('Pencapaian',255);
