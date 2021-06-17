@@ -9,8 +9,9 @@
                 <div class="card bg-secondary shadow border-0">
                     <div class="card-header bg-transparent pb-5">
                         <!-- <div class="text-muted text-center mt-2 mb-3"><small>{{ __('Sign in with') }}</small></div> -->
-                        <div class="text-center">
+                        <div class="img-sedang">
                             <img src="{{ asset('argon') }}/img/brand/LogoCKB.png" class = "img-fluid">
+                            <h2>Yayasan Cahaya Kahuripan Bangsa</h2>
                         </div>
                     </div>
                     <div class="card-body px-lg-5 py-lg-5">

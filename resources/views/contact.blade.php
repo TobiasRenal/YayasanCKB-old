@@ -78,7 +78,7 @@
                     </div>
                     <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
                         <div class="col-lg-6">
-                            <form>
+                            <form action="mailto:trenal68@gmail.com">
                                 <div class="form-floating mb-3">
                                     <input class="form-control" id="inputName" type="text" placeholder="Enter your name..." />
                                     <label for="inputName">Nama Lengkap</label>
