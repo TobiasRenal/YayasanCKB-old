@@ -58,7 +58,6 @@
                             </li>
                         </ul>
                         </div>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Pendaftaran</a></li>
                         <li class="nav-item"><a class="nav-link" href="/contact">Kontak</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Administrator</a></li>
                     </ul>
@@ -73,7 +72,7 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">Personalia</h2>
+                        <h2 class="text-white mt-0">Kober Cahaya bintang</h2>
                     </div>
                 </div>
             </div>

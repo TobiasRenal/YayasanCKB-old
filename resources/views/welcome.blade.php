@@ -58,7 +58,6 @@
                                 </li>
                             </ul>
                         </div>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Pendaftaran</a></li>
                         <li class="nav-item"><a class="nav-link" href="/contact">Kontak</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Administrator</a></li>
                     </ul>
@@ -75,7 +74,7 @@
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 mb-5">Yayasan Cahaya Kahuripan Bangsa</p>
-                        <a class="btn btn-primary btn-xl text-blue-75" href="#about">Find Out More</a>
+                        <a class="btn btn-primary btn-xl text-blue-75" href="#about">Pelajari Lebih Lanjut</a>
                     </div>
                 </div>
             </div>

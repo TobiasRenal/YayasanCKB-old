@@ -58,7 +58,6 @@
                             </li>
                         </ul>
                         </div>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Pendaftaran</a></li>
                         <li class="nav-item"><a class="nav-link" href="/contact">Kontak</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Administrator</a></li>
                     </ul>
