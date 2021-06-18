@@ -16,7 +16,7 @@ class CreatePengurus extends Migration
         Schema::create('pengurus', function (Blueprint $table) {
             $table->id('Id_pengurus');
             $table->integer('role_id_pengurus');
-            $table->foreign('role_id_pengurus')->references('role_id_pengurus')->on('role_pengurus');
+            $table->foreign('role_id_pengurus')->references('Role_id_pengurus')->on('role_pengurus');
             $table->char('Nama_pengurus',255);
             $table->dateTime('Tempat tanggal lahir',$precision = 0);
             $table->char('Alamat',255);

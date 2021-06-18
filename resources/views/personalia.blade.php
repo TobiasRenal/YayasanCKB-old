@@ -76,7 +76,7 @@
         </section>
         <!-- Services-->
         <section class="page-section" id="services">
-            <h1 class="text-center mt-0">Layanan yang tersedia</h1>
+            <h1 class="text-center mt-0">Para tutor dan staf PKBM Cahaya Kahuripan Bangsa.</h1>
             <hr class="divider" />
             <div class="row py-5">
                 <div class="col-lg-4 col-sm-6">
