@@ -47,7 +47,26 @@
                                 Layanan
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                <li><a class="dropdown-item" href="#">Kesetaraan</a></li>
+                                <li>
+                                    <a class="dropdown-item" href="#">Kesetaraan</a>
+                                    <ul class="dropdown-menu dropdown-submenu">
+                                        <li>
+                                            <a class="dropdown-item" href="#">Paket A (Setara SD)</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">Paket B (Setara SMP)</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">Paket C (Setara SMA)</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">PKK Paket C Vokasi</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="#">SBMPTN</a>
+                                        </li>
+                                    </ul>
+                                </li>
                                 <li><a class="dropdown-item" href="/inggris">Kursus Bahasa Inggris</a></li>
                                 <li><a class="dropdown-item" href="#page-top">Kursus Komputer</a></li>
                                 <li><a class="dropdown-item" href="/musik">Kursus Musik</a></li>
