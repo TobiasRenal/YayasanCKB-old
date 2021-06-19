@@ -17,11 +17,11 @@ class Inventaris extends Migration
             $table->id('Id_Inventaris');
             $table->integer('role_id_pengurus');
             $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
-            $table->char('Nama_inventaris',255);
+            $table->String('Nama_inventaris');
             $table->dateTime('Tanggal_perolehan',$precision = 0);
             $table->integer('Nilai_perolehan');
-            $table->char('Asal_inventaris',255);
-            $table->char('Keterangan',255);
+            $table->String('Asal_inventaris');
+            $table->String('Keterangan');
             $table->timestamps();
         });
     }

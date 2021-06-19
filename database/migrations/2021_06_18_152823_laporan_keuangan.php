@@ -17,10 +17,10 @@ class LaporanKeuangan extends Migration
             $table->id('Id_keuangan');
             $table->integer('role_id_pengurus');
             $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
-            $table->char('Nama_Keuangan',255);
+            $table->String('Nama_Keuangan');
             $table->dateTime('Tanggal_laporankeuangan',$precision = 0);
-            $table->integer('Jumlah');
-            $table->char('Keterangan',255);
+            $table->String('Jumlah');
+            $table->String('Keterangan');
             $table->timestamps();
         });
     }

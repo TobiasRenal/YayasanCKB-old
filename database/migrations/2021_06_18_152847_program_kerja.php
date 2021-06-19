@@ -17,10 +17,10 @@ class ProgramKerja extends Migration
             $table->id('Id_program');
             $table->integer('role_id_pengurus');
             $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
-            $table->char('Nama_program',255);
-            $table->char('Besar_anggaran',255);
-            $table->char('Pencapaian',255);
-            $table->char('Kendala',255);
+            $table->String('Nama_program');
+            $table->String('Besar_anggaran');
+            $table->String('Pencapaian');
+            $table->String('Kendala');
             $table->timestamps();
         });
     }

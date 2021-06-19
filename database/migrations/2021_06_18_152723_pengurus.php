@@ -21,7 +21,7 @@ class Pengurus extends Migration
             $table->String('Tempat_lahir');
             $table->dateTime('Tanggal_lahir',$precision = 0);
             $table->String('Alamat',255);
-            $table->integer('Notelepon');
+            $table->String('Notelepon');
             $table->timestamps();
         });
     }

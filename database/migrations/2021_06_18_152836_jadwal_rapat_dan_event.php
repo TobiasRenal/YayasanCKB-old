@@ -17,9 +17,10 @@ class JadwalRapatDanEvent extends Migration
             $table->id('Id_jadwal');
             $table->integer('role_id_pengurus');
             $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
-            $table->char('Nama_jadwal',255);
+            $table->String('Nama_jadwal');
+            $table->String('Tempat_jadwal');
             $table->dateTime('Tanggal_jadwal',$precision = 0);
-            $table->char('Keterangan',255);
+            $table->String('Keterangan');
             $table->timestamps();
         });
     }
