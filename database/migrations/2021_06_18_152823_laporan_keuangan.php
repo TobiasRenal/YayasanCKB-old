@@ -14,13 +14,13 @@ class LaporanKeuangan extends Migration
     public function up()
     {
         Schema::create('laporan_keuangan', function (Blueprint $table) {
-            $table->id('Id_keuangan');
-            $table->integer('role_id_pengurus');
-            $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
-            $table->char('Nama_Keuangan',255);
-            $table->dateTime('Tanggal_laporankeuangan',$precision = 0);
-            $table->integer('Jumlah');
-            $table->char('Keterangan',255);
+            $table->id('id_keuangan');
+            $table->integer('role_id');
+            $table->foreign('role_id')->references('role_id')->on('role_pengurus');
+            $table->String('nama_Keuangan');
+            $table->dateTime('tanggal_laporan_keuangan',$precision = 0);
+            $table->bigInteger('jumlah');
+            $table->String('keterangan');
             $table->timestamps();
         });
     }

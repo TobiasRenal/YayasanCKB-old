@@ -14,13 +14,13 @@ class ProgramKerja extends Migration
     public function up()
     {
         Schema::create('program_kerja', function (Blueprint $table) {
-            $table->id('Id_program');
-            $table->integer('role_id_pengurus');
-            $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
-            $table->char('Nama_program',255);
-            $table->char('Besar_anggaran',255);
-            $table->char('Pencapaian',255);
-            $table->char('Kendala',255);
+            $table->id('id_program');
+            $table->integer('role_id');
+            $table->foreign('role_id')->references('role_id')->on('role_pengurus');
+            $table->String('nama_program');
+            $table->bigInteger('besar_anggaran');
+            $table->String('pencapaian');
+            $table->String('kendala');
             $table->timestamps();
         });
     }

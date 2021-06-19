@@ -16,8 +16,8 @@ class UsersTable extends Migration
         Schema::create('users', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->integer('role_id_pengurus');
-            $table->foreign('role_id_pengurus')->references('role_id')->on('role_pengurus');
+            $table->integer('role_id');
+            $table->foreign('role_id')->references('role_id')->on('role_pengurus');
             $table->string('email')->unique();
             $table->string('password');
             $table->rememberToken();

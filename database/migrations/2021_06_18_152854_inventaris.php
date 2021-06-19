@@ -14,14 +14,14 @@ class Inventaris extends Migration
     public function up()
     {
         Schema::create('inventaris', function (Blueprint $table) {
-            $table->id('Id_Inventaris');
-            $table->integer('role_id_pengurus');
-            $table->foreign('role_id_pengurus')->references('Id_pengurus')->on('pengurus');
-            $table->char('Nama_inventaris',255);
-            $table->dateTime('Tanggal_perolehan',$precision = 0);
-            $table->integer('Nilai_perolehan');
-            $table->char('Asal_inventaris',255);
-            $table->char('Keterangan',255);
+            $table->id('id_inventaris');
+            $table->integer('role_id');
+            $table->foreign('role_id')->references('role_id')->on('role_pengurus');
+            $table->String('nama_inventaris');
+            $table->dateTime('tanggal_perolehan',$precision = 0);
+            $table->bigInteger('nilai_perolehan');
+            $table->String('asal_inventaris');
+            $table->String('keterangan');
             $table->timestamps();
         });
     }
