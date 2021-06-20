@@ -54,6 +54,18 @@
                                     </span>
                                 @endif
                             </div>
+                            <div class="form-group{{ $errors->has('role_id') ? ' has-danger' : '' }}">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="role" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Peran
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="role">
+                                    <a class="dropdown-item" href="#">Admin</a>
+                                    <a class="dropdown-item" href="#">Pembina</a>
+                                    <a class="dropdown-item" href="#">Pengurus</a>
+                                    <a class="dropdown-item" href="#">Keuangan</a>
+                                    <a class="dropdown-item" href="#">Perlengkapan</a>
+                                </div>
+                            </div>
                             <div class="form-group{{ $errors->has('password') ? ' has-danger' : '' }}">
                                 <div class="input-group input-group-alternative">
                                     <div class="input-group-prepend">
@@ -75,9 +87,9 @@
                                     <input class="form-control" placeholder="{{ __('Confirm Password') }}" type="password" name="password_confirmation" required>
                                 </div>
                             </div>
-                            <div class="text-muted font-italic">
+                            <!-- <div class="text-muted font-italic">
                                 <small>{{ __('password strength') }}: <span class="text-success font-weight-700">{{ __('strong') }}strong</span></small>
-                            </div>
+                            </div> -->
                             <div class="row my-4">
                                 <div class="col-12">
                                     <div class="custom-control custom-control-alternative custom-checkbox">
